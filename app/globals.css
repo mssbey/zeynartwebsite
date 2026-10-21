@@ -233,7 +233,8 @@ h3 {
   margin-left: 70px;
 }
 .desktop-nav a {
-  font-size: 11px;
+  font-size: 14px;
+  white-space: nowrap;
   color: #c4c8ce;
   position: relative;
   padding-block: 12px;
@@ -3565,6 +3566,9 @@ h3 {
   }
   .desktop-nav {
     gap: 16px;
+  }
+  .desktop-nav a {
+    font-size: 12px;
   }
   .zeynart-intro {
     grid-template-columns: 1fr;
