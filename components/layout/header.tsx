@@ -6,8 +6,9 @@ import { ArrowUpRight, Menu, X } from 'lucide-react';
 import { Logo } from '@/components/ui/logo';
 const links = [
   ['Hizmetler', '/hizmetler'],
-  ['Projeler', '/projeler'],
+  ['Grafik Tasarım', '/hizmetler/grafik-tasarim'],
   ['Hakkımızda', '/hakkimizda'],
+  ['Hosting', '/hizmetler/hosting'],
   ['Blog', '/blog'],
   ['İletişim', '/iletisim'],
 ];

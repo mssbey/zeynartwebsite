@@ -1,0 +1,14 @@
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+# Eski WordPress yazı adresleri (/2020/10/04/slug/) -> /blog/slug/
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^\d{4}/\d{2}/\d{2}/([^/]+)/?$ /blog/$1/ [R=301,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(webp|avif|png|jpg|jpeg|svg|woff2)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>

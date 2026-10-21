@@ -1,0 +1,72 @@
+[
+  {
+    "name": "web-planning",
+    "type": "photorealistic-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium digital agency blog cover. Overhead editorial photograph of a web designer's planning desk: paper website wireframes, five blank index cards, graphite pencil, laptop edge displaying simple abstract layout blocks. Warm ivory paper, restrained turquoise accents, daylight, beautifully tactile and intentional. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-360cb840-0d75-4cca-a3eb-9e344013925b.png",
+    "output": "public/images/journal/web-planning.webp"
+  },
+  {
+    "name": "brand-system",
+    "type": "product-mockup",
+    "prompt": "Use case: product-mockup. Asset type: premium digital agency blog cover. Art-directed top-down brand design study: geometric turquoise cut-paper circle, black and ivory business cards, a fan of turquoise and cream color swatches, typographic grid sheets with abstract lines, metal ruler. Bright ivory background, tactile paper, crisp shadows. No invented logo. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-a0117d86-0831-411b-b96b-8571e67b05f6.png",
+    "output": "public/images/journal/brand-system.webp"
+  },
+  {
+    "name": "ecommerce",
+    "type": "product-mockup",
+    "prompt": "Use case: product-mockup. Asset type: premium digital agency blog cover. Premium editorial still life about ecommerce product pages: a sculptural white ceramic bottle and folded natural fabric on low cream plinths, a smartphone standing beside them showing a simple abstract product card with matching bottle thumbnail and turquoise button. Peach and pale stone background, soft sunlight. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-bd681f7d-9381-40fe-91c8-9984828874ac.png",
+    "output": "public/images/journal/ecommerce.webp"
+  },
+  {
+    "name": "hosting",
+    "type": "photorealistic-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium digital agency blog cover. Cinematic architectural photograph of a real modern server aisle, charcoal rack cabinets with tiny teal indicator lights, precise cable management, cool white overhead light, symmetrical perspective, calm secure atmosphere. No sci-fi holograms. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-fbf6207f-50d5-4870-998e-7e60a1ba8289.png",
+    "output": "public/images/journal/hosting.webp"
+  },
+  {
+    "name": "custom-software",
+    "type": "stylized-concept",
+    "prompt": "Use case: stylized-concept. Asset type: premium digital agency blog cover. Elegant physical metaphor for custom software: interlocking precision-machined graphite and frosted turquoise modular blocks on a dark petrol worktable, a single bespoke connector fitting between two distinct systems, macro product photography, beautiful side light, coherent mechanically plausible shapes. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-b42a23b9-96ac-4474-8646-ecd8e5ca5362.png",
+    "output": "public/images/journal/custom-software.webp"
+  },
+  {
+    "name": "mvp",
+    "type": "stylized-concept",
+    "prompt": "Use case: stylized-concept. Asset type: premium digital agency blog cover. Editorial conceptual still life about taking an idea to its first product: three sequential architectural study models, simple paper outline, small ivory foam prototype, refined turquoise solid final form, arranged left to right on warm pale stone, pencil and tracing paper, directional daylight, refined minimal composition. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-bb51e87d-d9f8-4f44-b87a-81152909e7ab.png",
+    "output": "public/images/journal/mvp.webp"
+  },
+  {
+    "name": "ai-workflow",
+    "type": "stylized-concept",
+    "prompt": "Use case: stylized-concept. Asset type: premium digital agency blog cover. Sophisticated editorial physical visualization of AI workflow: thin brushed aluminum tracks route small ivory document tiles through a luminous frosted teal glass sorting prism into three neatly organized groups on midnight petrol surface, restrained amber highlight, tangible crafted sculpture, no brain or robot. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-e1bfbd8e-c3c3-4f99-b33d-9b436bbcbcec.png",
+    "output": "public/images/journal/ai-workflow.webp"
+  },
+  {
+    "name": "web-performance",
+    "type": "stylized-concept",
+    "prompt": "Use case: stylized-concept. Asset type: premium digital agency blog cover. Dynamic editorial image about fast web experience: three thin translucent browser-like glass panels with abstract geometric layout blocks, sweeping smoothly through airy pale blue space, restrained turquoise motion trails, crisp front panel and subtle depth blur, premium minimal 3D product rendering. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-ddcb7be3-4680-4955-8c04-71c8147d54ad.png",
+    "output": "public/images/journal/web-performance.webp"
+  },
+  {
+    "name": "creative-studio",
+    "type": "photorealistic-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium digital agency website section artwork. Wide editorial close view of a creative studio workbench, large open sketchbook with geometric pencil studies, turquoise acrylic material samples, brushed steel ruler, tracing paper and a monitor edge in softly blurred background, beautiful natural side light, petrol and warm neutral palette. Authentic material detail, no people, no claim of a real office. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-4190f243-a016-4e56-99ea-cb102ae940e6.png",
+    "output": "public/images/sections/creative-studio.webp"
+  },
+  {
+    "name": "journal-banner",
+    "type": "stylized-concept",
+    "prompt": "Use case: stylized-concept. Asset type: premium digital agency website section artwork. Very wide cinematic abstract editorial sculpture: a single turquoise translucent ribbon folds like an open book and flows into a continuous sculptural path, placed on dark petrol stone. Main sculpture on right third, left half quiet very dark negative space for website text, soft controlled rim light, refined artistic atmosphere. Landscape 16:9 composition, strong central subject readable in a small card and safe under moderate cropping. Distinct original image. No text, no letters, no logos, no watermarks, no website screenshot. High quality editorial art direction.",
+    "source": "C:\\Users\\PC\\.codex\\generated_images\\01a15326-d1b1-75b2-aa91-afebd4fb088c\\exec-36e1b374-5e2c-431f-b5bc-60f6fe19fb91.png",
+    "output": "public/images/sections/journal-banner.webp"
+  }
+]

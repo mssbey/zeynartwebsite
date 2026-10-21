@@ -6,7 +6,7 @@ import { ArrowUpRight, Phone, Mail } from 'lucide-react';
 export const generateMetadata = () =>
   metadata(
     'İletişim',
-    'Dijital ürün, kurumsal yazılım ve teknoloji projeleriniz için ROVA Digital ile iletişime geçin. 0538 528 3702.',
+    'Dijital ürün, kurumsal yazılım ve teknoloji projeleriniz için Zeynart Web Bilişim ile iletişime geçin. 0850 305 0 533.',
     '/iletisim',
   );
 export default function ContactPage() {

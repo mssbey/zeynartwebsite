@@ -16,7 +16,7 @@ export function TechnologyStrip() {
               d="m5 7 2-1c0-6 9-6 9 0l3 1 2 15-18-2L5 7Zm5-1 4-1c-1-4-4-3-4 1Z"
               fill="currentColor"
             />
-            <text x="8" y="17" fill="#080c11" fontSize="11" fontWeight="bold">
+            <text x="8" y="17" fill="#070f12" fontSize="11" fontWeight="bold">
               S
             </text>
           </svg>

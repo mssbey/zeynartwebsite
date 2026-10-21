@@ -20,10 +20,10 @@ export function Footer() {
         <div>
           <h3>Hizmetler</h3>
           {[
-            ['Web & Yazılım', 'web-yazilim'],
+            ['Web Tasarım', 'web-tasarim'],
             ['Mobil Uygulama', 'mobil-uygulama'],
-            ['Yapay Zeka', 'yapay-zeka'],
-            ['SEO & GEO', 'seo-geo'],
+            ['Grafik Tasarım', 'grafik-tasarim'],
+            ['Hosting & Sunucu', 'hosting'],
           ].map(([name, slug]) => (
             <Link key={slug} href={`/hizmetler/${slug}`}>
               {name}
@@ -43,11 +43,11 @@ export function Footer() {
             Fikrinizi konuşalım <ArrowUpRight size={19} />
           </Link>
           {contactEmail && <a href={`mailto:${contactEmail}`}>{contactEmail}</a>}
-          <p>Türkiye’den, her yere.</p>
+          <p>Maltepe Mh. 21078 Sk. No:6/A</p>
         </div>
       </div>
       <div className="container footer-bottom">
-        <span>© {new Date().getFullYear()} ROVA DIGITAL</span>
+        <span>© {new Date().getFullYear()} ZEYNART</span>
         <div>
           <Link href="/gizlilik">Gizlilik</Link>
           <Link href="/kvkk">KVKK</Link>
@@ -56,7 +56,7 @@ export function Footer() {
         </div>
       </div>
       <div className="footer-wordmark" aria-hidden="true">
-        ROVA
+        ZEYNART
       </div>
     </footer>
   );

@@ -14,25 +14,25 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'ROVA DIGITAL — Dijitalde Daha Fazlası Mümkün.',
-    template: '%s | ROVA DIGITAL',
+    default: 'Zeynart Web Bilişim — Siz hayal edin, Zeynart tasarlasın.',
+    template: '%s | ZEYNART',
   },
   description:
-    'Strateji, tasarım ve teknoloji. Web, mobil uygulama, yapay zeka ve özel yazılım çözümleriyle fikrinizi gerçeğe dönüştürüyoruz.',
+    '2014’ten beri web tasarım, grafik tasarım, özel yazılım, mobil uygulama ve hosting hizmetleri. Siz hayal edin, Zeynart tasarlasın.',
   alternates: { canonical: '/' },
   openGraph: {
     type: 'website',
     locale: 'tr_TR',
-    siteName: 'ROVA DIGITAL',
+    siteName: 'ZEYNART',
     images: [{ url: '/opengraph-image', width: 1200, height: 630 }],
   },
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
 };
-export const viewport: Viewport = { themeColor: '#080c11', width: 'device-width', initialScale: 1 };
+export const viewport: Viewport = { themeColor: '#070f12', width: 'device-width', initialScale: 1 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="tr" className={manrope.variable}>
+    <html lang="tr" className={manrope.variable} data-scroll-behavior="smooth">
       <body>
         <a href="#main" className="skip-link">
           İçeriğe geç
@@ -48,13 +48,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               {
                 '@type': 'Organization',
                 '@id': `${siteUrl}/#organization`,
-                name: 'ROVA DIGITAL',
+                name: 'ZEYNART',
                 url: siteUrl,
-                logo: `${siteUrl}/icon.svg`,
+                logo: `${siteUrl}/images/zeynart-logo.avif`,
               },
               {
                 '@type': 'WebSite',
-                name: 'ROVA DIGITAL',
+                name: 'ZEYNART',
                 url: siteUrl,
                 inLanguage: 'tr-TR',
                 publisher: { '@id': `${siteUrl}/#organization` },

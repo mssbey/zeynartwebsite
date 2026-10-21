@@ -10,15 +10,18 @@ export function ContactFormWithQuery() {
     <ContactForm
       initialService={query.get('hizmet') ?? ''}
       initialSector={query.get('sektor') ?? ''}
+      initialPackage={query.get('paket') ?? ''}
     />
   );
 }
 export function ContactForm({
   initialService = '',
   initialSector = '',
+  initialPackage = '',
 }: {
   initialService?: string;
   initialSector?: string;
+  initialPackage?: string;
 }) {
   const form = useRef<HTMLFormElement>(null);
   const [status, setStatus] = useState('');
@@ -29,14 +32,14 @@ export function ContactForm({
   function download() {
     if (!form.current?.reportValidity()) return;
     const data = Object.fromEntries(new FormData(form.current));
-    const text = `ROVA DIGITAL — PROJE NOTU\n\nAd Soyad: ${data.name}\nE-posta: ${data.email}\nŞirket: ${data.company || 'Belirtilmedi'}\nHizmet: ${data.service}\nBütçe: ${data.budget}\n${initialSector ? `Sektör: ${initialSector}\n` : ''}\nProje fikri:\n${data.message}\n`;
+    const text = `ZEYNART — PROJE NOTU\n\nAd Soyad: ${data.name}\nE-posta: ${data.email}\nŞirket: ${data.company || 'Belirtilmedi'}\nHizmet: ${data.service}\nBütçe: ${data.budget}\n${initialSector ? `Sektör: ${initialSector}\n` : ''}\nProje fikri:\n${data.message}\n`;
     const url = URL.createObjectURL(new Blob([text], { type: 'text/plain;charset=utf-8' }));
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'rova-proje-notu.txt';
+    a.download = 'zeynart-proje-notu.txt';
     a.click();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
-    setStatus('Proje notunuz indirildi. Bu işlem mesajınızı ROVA Digital’e göndermez.');
+    setStatus('Proje notunuz indirildi. Bu işlem mesajınızı Zeynart Web Bilişim’e göndermez.');
   }
   return (
     <form ref={form} className="contact-form" onSubmit={submit}>
@@ -109,7 +112,11 @@ export function ContactForm({
           maxLength={5000}
           rows={5}
           defaultValue={
-            initialSector ? `${initialSector} sektöründe bir proje geliştirmek istiyorum. ` : ''
+            ['Basic', 'Eko', 'Pro'].includes(initialPackage)
+              ? `${initialPackage} hosting paketi hakkında teklif almak istiyorum. `
+              : initialSector
+                ? `${initialSector} sektöründe bir proje geliştirmek istiyorum. `
+                : ''
           }
         />
       </label>

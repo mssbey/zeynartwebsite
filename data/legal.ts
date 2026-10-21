@@ -49,7 +49,7 @@ export const legalPages = {
       ],
       [
         'Açılış animasyonu tercihi',
-        'Kısa açılış animasyonunun aynı oturumda tekrar gösterilmemesi için tarayıcının sessionStorage alanında rova-visited adlı bir değer tutulur. Bu değer form bilgisi veya kişisel tanımlayıcı içermez ve sunucuya gönderilmez.',
+        'Kısa açılış animasyonunun aynı oturumda tekrar gösterilmemesi için tarayıcının sessionStorage alanında zeynart-visited adlı bir değer tutulur. Bu değer form bilgisi veya kişisel tanımlayıcı içermez ve sunucuya gönderilmez.',
       ],
       [
         'Kontrol sizde',

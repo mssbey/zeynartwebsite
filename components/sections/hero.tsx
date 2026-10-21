@@ -8,32 +8,32 @@ import { AnimatePresence, motion, useReducedMotion } from 'framer-motion';
 
 const slides = [
   {
-    label: 'FİKİRDEN GERÇEĞE',
-    lines: ['Dijitalde', 'Daha Fazlası'],
-    accent: 'Mümkün.',
-    copy: 'Markalar, ürünler ve insanlar için teknolojiyle anlamlı çözümler üretiyoruz.',
-    note: ['İYİ FİKİRLERİN', 'BİR SONRAKİ', 'ADIMI.'],
+    label: '2014’TEN BERİ YARATICILIK VE VİZYON',
+    lines: ['Siz hayal edin,', 'Zeynart'],
+    accent: 'tasarlasın.',
+    copy: 'Web tasarımından marka kimliğine, yazılımdan hostinge. İşletmenizin dijital dünyadaki imzasını birlikte oluşturuyoruz.',
+    note: ['YARATICILIK.', 'VİZYON.', 'ZEYNART.'],
   },
   {
-    label: 'TASARIMDAN DENEYİME',
-    lines: ['İyi Tasarım.', 'Güçlü Etki.'],
-    accent: 'Birlikte.',
-    copy: 'İnsanları anlayan, markanıza değer katan dijital deneyimler tasarlıyoruz.',
-    note: ['HER DETAYDA', 'BİR AMAÇ', 'VAR.'],
+    label: 'MARKANIZIN DİJİTAL İMZASI',
+    lines: ['Fark edilmek', 'iyi tasarımla'],
+    accent: 'başlar.',
+    copy: 'Logo, kurumsal kimlik, banner ve katalog tasarımlarıyla markanızın benzersiz parmak izini görünür kılıyoruz.',
+    note: ['HER MARKA', 'KENDİ İZİNİ', 'BIRAKIR.'],
   },
   {
-    label: 'TEKNOLOJİDEN DEĞERE',
-    lines: ['Akıllı Sistemler.', 'Yeni Olanaklar.'],
-    accent: 'Şimdi.',
-    copy: 'Yapay zeka ve otomasyonla işinizi bir sonraki adımına hazırlıyoruz.',
-    note: ['GELECEĞİ', 'BUGÜNDEN', 'TASARLIYORUZ.'],
+    label: 'İŞİNİZE ÖZEL YAZILIM',
+    lines: ['İşinizi anlayan', 'dijital'],
+    accent: 'çözümler.',
+    copy: 'Stok takip, saha satış, sipariş ve teslimat süreçlerinizi işletmenize özel yazılımlarla bir araya getiriyoruz.',
+    note: ['DAHA DÜZENLİ.', 'DAHA VERİMLİ.', 'BİRLİKTE.'],
   },
   {
-    label: 'BUGÜNDEN GELECEĞE',
-    lines: ['Büyük Fikirler.', 'Sağlam Temeller.'],
-    accent: 'İleriye.',
-    copy: 'Büyümenize uyum sağlayan ürünler ve güvenilir yazılım altyapıları geliştiriyoruz.',
-    note: ['DAHA İLERİSİ', 'HER ZAMAN', 'MÜMKÜN.'],
+    label: 'HOSTING VE SUNUCU',
+    lines: ['Güçlü altyapı.', 'Güvenilir'],
+    accent: 'bir başlangıç.',
+    copy: 'Web hosting, bulut sunucu, yedekleme ve teknik destek hizmetleriyle dijital varlığınızın yanındayız.',
+    note: ['HIZ.', 'GÜVENLİK.', 'SÜREKLİLİK.'],
   },
 ];
 
@@ -48,7 +48,7 @@ export function Hero() {
   }, [paused, reduced]);
   const slide = slides[active];
   return (
-    <section className={`hero hero-slide-${active}`} aria-label="ROVA Digital tanıtımı">
+    <section className={`hero hero-slide-${active}`} aria-label="Zeynart Web Bilişim tanıtımı">
       <div className="hero-background" style={{ opacity: active % 2 === 0 ? 1 : 0 }}>
         <Image
           src="/images/architecture.webp"
@@ -97,7 +97,7 @@ export function Hero() {
           </AnimatePresence>
           <div className="hero-buttons">
             <Link href="/iletisim" className="button button-primary" data-magnetic>
-              Hemen başlayalım <ArrowRight size={18} />
+              Teklif alın <ArrowRight size={18} />
             </Link>
             <Link href="#hizmetler" className="play-link">
               <span>
@@ -136,10 +136,10 @@ export function Hero() {
           </button>
         </div>
         <div className="hero-bottom">
-          <a href="#teknolojiler" className="scroll-link">
+          <a href="#hizmetler" className="scroll-link">
             <ArrowDown size={15} /> KEŞFETMEYE DEVAM ET
           </a>
-          <span>STRATEJİ · TASARIM · TEKNOLOJİ</span>
+          <span>WEB · GRAFİK · YAZILIM · HOSTING</span>
           <span className="hero-coordinate">FİKİRLERDEN YENİ OLASILIKLARA.</span>
         </div>
       </div>

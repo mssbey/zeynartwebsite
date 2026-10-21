@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
-export const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://rovadigital.com';
-export const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL || '';
-export const contactPhone = { display: '0538 528 3702', href: 'tel:+905385283702' } as const;
+export const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://zeynart.com';
+export const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'info@zeynart.com';
+export const contactPhone = { display: '0850 305 0 533', href: 'tel:+908503050533' } as const;
 export const locales = { default: 'tr', supported: ['tr', 'en'] } as const;
 export function metadata(title: string, description: string, path: string): Metadata {
   return {
@@ -9,7 +9,7 @@ export function metadata(title: string, description: string, path: string): Meta
     description,
     alternates: { canonical: path },
     openGraph: {
-      title: `${title} | ROVA DIGITAL`,
+      title: `${title} | ZEYNART`,
       description,
       url: path,
       locale: 'tr_TR',

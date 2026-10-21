@@ -5,7 +5,7 @@ import { CTA } from '@/components/sections/cta';
 export const generateMetadata = () =>
   metadata(
     'Projeler',
-    'Fintech, e-ticaret ve SaaS alanlarında ROVA Digital ürün ve tasarım konseptlerini keşfedin.',
+    'Fintech, e-ticaret ve SaaS alanlarında Zeynart Web Bilişim ürün ve tasarım konseptlerini keşfedin.',
     '/projeler',
   );
 export default function ProjectsPage() {
@@ -25,8 +25,8 @@ export default function ProjectsPage() {
       <div className="container page-body">
         <ProjectGrid />
         <p className="project-disclaimer">
-          Bu sayfadaki çalışmalar ROVA Digital için hazırlanan özgün konseptlerdir. Gerçek müşteri
-          ilişkisi veya ölçülmüş ticari sonuç iddiası içermez.
+          Bu sayfadaki çalışmalar Zeynart Web Bilişim için hazırlanan özgün konseptlerdir. Gerçek
+          müşteri ilişkisi veya ölçülmüş ticari sonuç iddiası içermez.
         </p>
       </div>
       <CTA />

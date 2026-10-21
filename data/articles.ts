@@ -1,4 +1,20 @@
-export const articles = [
+import { journalArticles } from './journal';
+import wpPosts from './wp-posts.json';
+export type Article = {
+  slug: string;
+  category: string;
+  title: string;
+  excerpt: string;
+  read: string;
+  date: string;
+  service?: string;
+  image?: string | null;
+  sections?: { heading: string; text: string }[];
+  // WordPress'ten aktarılan yazıların temizlenmiş HTML içeriği
+  html?: string;
+};
+export type ArticleSummary = Omit<Article, 'sections' | 'html'>;
+const originalArticles = [
   {
     slug: 'fikrinizden-ilk-urune',
     category: 'ÜRÜN STRATEJİSİ',
@@ -24,7 +40,7 @@ export const articles = [
         text: 'Küçük ve geri alınabilir sürümler yayınlayın. Geri bildirimi, teknik borcu ve kullanıcı ihtiyacını birlikte değerlendirin. Sağlam bir ürün yol haritası, değişen bilgiyi içine alabilecek kadar esnektir.',
       },
     ],
-    service: 'saas',
+    service: 'web-yazilim',
   },
   {
     slug: 'yapay-zeka-is-surecleri',
@@ -51,7 +67,7 @@ export const articles = [
         text: 'Temsil edici örneklerden bir değerlendirme kümesi hazırlayın. Doğruluk, yanıt süresi, maliyet ve kullanıcı düzeltmelerini birlikte izleyin. Üretime geçiş kararı yalnızca etkileyici birkaç örneğe değil, tekrarlanabilir sonuçlara dayanmalıdır.',
       },
     ],
-    service: 'yapay-zeka',
+    service: 'web-yazilim',
   },
   {
     slug: 'hizli-web-deneyimi',
@@ -77,3 +93,12 @@ export const articles = [
     service: 'web-yazilim',
   },
 ];
+export const articles: Article[] = [
+  ...journalArticles,
+  ...originalArticles,
+  ...(wpPosts as Article[]),
+];
+// İstemci bileşenlerine yalnızca liste için gereken alanları gönderin.
+export const articleSummaries: ArticleSummary[] = articles.map(
+  ({ sections: _sections, html: _html, ...summary }) => summary,
+);

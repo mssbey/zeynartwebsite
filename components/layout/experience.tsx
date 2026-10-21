@@ -12,9 +12,9 @@ export function Experience() {
   useEffect(() => {
     const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
     try {
-      if (!sessionStorage.getItem('rova-visited') && !reduced) {
+      if (!sessionStorage.getItem('zeynart-visited') && !reduced) {
         intro.current?.classList.add('intro-show');
-        sessionStorage.setItem('rova-visited', '1');
+        sessionStorage.setItem('zeynart-visited', '1');
       }
     } catch {
       /* Storage can be disabled without affecting navigation. */
@@ -89,7 +89,7 @@ export function Experience() {
       </div>
       <div ref={intro} className="intro" aria-hidden="true">
         <Symbol />
-        <span>ROVA DIGITAL</span>
+        <span>ZEYNART</span>
       </div>
     </>
   );

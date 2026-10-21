@@ -74,7 +74,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
             <h2>İlgili uzmanlık</h2>
             <Link
               className="text-link"
-              href={`/hizmetler/${p.theme === 'forma' ? 'e-ticaret' : p.theme === 'nexus' ? 'saas' : 'ui-ux'}`}
+              href={`/hizmetler/${p.theme === 'forma' ? 'e-ticaret' : p.theme === 'nexus' ? 'web-yazilim' : 'web-tasarim'}`}
             >
               Bu deneyimin arkasındaki yaklaşım <ArrowUpRight size={18} />
             </Link>
