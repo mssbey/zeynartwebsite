@@ -13,6 +13,7 @@ export default function ServicesPage() {
   return (
     <>
       <PageIntro
+        background="/images/banners/services.webp"
         label="UZMANLIK ALANLARIMIZ"
         title={
           <>

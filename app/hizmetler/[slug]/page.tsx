@@ -26,6 +26,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
   return (
     <>
       <PageIntro
+        background={slug === 'grafik-tasarim' ? '/images/banners/graphic-design.webp' : slug === 'hosting' ? '/images/banners/hosting.webp' : undefined}
         label={service.title.toLocaleUpperCase('tr-TR')}
         title={service.headline}
         description={service.description}

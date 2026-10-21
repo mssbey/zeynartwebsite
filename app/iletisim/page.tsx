@@ -13,6 +13,7 @@ export default function ContactPage() {
   return (
     <div className="contact-page">
       <PageIntro
+        background="/images/banners/contact.webp"
         label="İLETİŞİM"
         title={
           <>

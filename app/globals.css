@@ -1493,6 +1493,53 @@ h3 {
   margin-top: 20px;
   user-select: none;
 }
+.page-banner {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: #061014;
+  border-bottom: 1px solid #ffffff12;
+}
+.page-banner-art {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+.page-banner-art img {
+  object-fit: cover;
+  object-position: center;
+}
+.page-banner-art::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #040e12eb 0%, #040e12c9 34%, #040e1252 68%, #040e1226 100%), linear-gradient(0deg, #061014 0%, transparent 26%, #040e1233 100%);
+}
+.page-banner .page-intro {
+  min-height: 650px;
+  padding-bottom: 95px;
+}
+.page-banner .page-intro h1 {
+  max-width: 950px;
+}
+.page-banner .muted {
+  color: #b6c9cd;
+}
+.page-banner .page-intro > p:not(.eyebrow) {
+  color: #c1cdd0;
+}
+@media (max-width: 760px) {
+  .page-banner .page-intro {
+    min-height: 570px;
+    padding-bottom: 65px;
+  }
+  .page-banner-art img {
+    object-position: 63% center;
+  }
+  .page-banner-art::after {
+    background: linear-gradient(90deg, #040e12db, #040e1280), linear-gradient(0deg, #061014, transparent 45%);
+  }
+}
 .page-intro {
   padding-top: 200px;
   padding-bottom: 70px;

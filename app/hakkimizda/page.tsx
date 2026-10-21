@@ -15,6 +15,7 @@ export default function AboutPage() {
   return (
     <>
       <PageIntro
+        background="/images/banners/about.webp"
         label="ZEYNART KİMDİR?"
         title={
           <>

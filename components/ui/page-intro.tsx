@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { ChevronRight } from 'lucide-react';
 import { StructuredData } from '@/components/ui/structured-data';
 import { siteUrl } from '@/lib/site';
@@ -7,14 +8,22 @@ export function PageIntro({
   title,
   description,
   crumbs = [],
+  background,
 }: {
   label: string;
   title: React.ReactNode;
   description?: string;
   crumbs?: { name: string; href: string }[];
+  background?: string;
 }) {
   return (
-    <div className="container page-intro">
+    <section className={background ? 'page-banner' : undefined}>
+      {background && (
+        <div className="page-banner-art" aria-hidden="true">
+          <Image src={background} alt="" fill sizes="100vw" preload />
+        </div>
+      )}
+      <div className="container page-intro">
       {crumbs.length > 0 && (
         <>
           <nav aria-label="Sayfa yolu" className="breadcrumb">
@@ -50,6 +59,7 @@ export function PageIntro({
       </p>
       <h1>{title}</h1>
       {description && <p>{description}</p>}
-    </div>
+      </div>
+    </section>
   );
 }
