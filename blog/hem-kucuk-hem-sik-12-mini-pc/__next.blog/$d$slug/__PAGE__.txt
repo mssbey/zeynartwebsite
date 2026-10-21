@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+3:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+4:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+5:T4a99,<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-0-jtck3I2C.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bilgisayarlar söz konusu olduğu zaman hız, performans ve güç gibi avantajlar gürültüyle gelmek zorunda değil. Hem alandan tasarruf ederken hem de günlük, profesyonel ve oyun odaklı kullanım için tercih edebileceğiniz <strong>Mini PC</strong> modelleri mevcut. Biz de mini bilgisayar modellerine yakından baktığımız bir liste hazırladık. Yazımızın sonunda masaüstü PC ve mini PC arasındaki farklardan da bahsedeceğiz.</p>
+<p>Baktığımız modelleri alt, orta ve üst segmente göre ayırdık. Oyun oynamak için kullanılan bilgisayarlar, normal kullanımın çok dışında gereksinimler gerektirdiği için <strong>oyuncu mini PC modellerine</strong> ise başka bir başlık açtık. Listelediğimiz bazı ürünlerin teknik özellikleri, satın alım aşamasında değiştirilebildiği için verdiğimiz teknik özellikler ve dolayısıyla fiyatlarda <strong>değişiklikler gözlenebilir</strong>.</p>
+<p><strong>Türkiye’de satılan <em>mini PC</em> modelleri:</strong></p>
+<ul>
+<li>Alt segment modeller:
+<ul>
+<li>ASUS TS10-B041D​</li>
+<li>ASUS PN30-BE023ZV</li>
+<li>MSI CUBI N 8GL-012TR</li>
+</ul>
+</li>
+<li>Orta segment modeller:
+<ul>
+<li>Dell OptiPlex 3070MF</li>
+<li>Intel Nuc BOXNUC7I3BNH</li>
+<li>Apple Mac mini</li>
+</ul>
+</li>
+<li>Üst segment modeller:
+<ul>
+<li>Lenovo M720 Tiny</li>
+<li>Dell OptiPlex 7070MFF</li>
+<li>HP EliteDesk 800 G5</li>
+</ul>
+</li>
+<li>Oyuncu modelleri:
+<ul>
+<li>MSI Trident 3 9SI-619EU</li>
+<li>Zotac Zbox i7 9750H</li>
+<li>MSI TRIDENT X PLUS 9SD-654EU</li>
+</ul>
+</li>
+</ul>
+<p><strong>Alt segment <em>mini PC</em> modelleri:</strong></p>
+<p><strong>Çubuk bilgisayar: ASUS TS10-B041D</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-1-RHHKvPWi.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics</li>
+<li>İşlemci: Intel Atom Z8350</li>
+<li>Bellek: 2 GB</li>
+<li>Depolama kapasitesi: 32 GB SSD</li>
+<li>Boyutlar: 1,6 x 3,6 x 13,5 cm</li>
+<li>Ağırlık: 75 gr</li>
+<li>Ortalama fiyatı: ~1.600 TL</li>
+</ul>
+<p>Mini PC dendiği zaman akılda ilk canlanan görüntü bir USB bellek görüntüsü olmayabilir. Şıklığıyla ilgili büyük bir iddiamız olmasa da minik olduğu tartışılmaz. Tabii ki listemizde bulunan diğer bilgisayarlara göre çok daha düşük işlem gücü olan bir cihaz. Ancak <strong>cebinde bile</strong> bir bilgisayara ihtiyacı olan kullanıcılar tarafından, düşük güç gerektiren işlemleri yerine getirmek için tercih edilebilecek bir model.</p>
+<p><strong>ASUS PN30-BE023ZV</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-2-b8t5BOIR.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: AMD Radeon R2</li>
+<li>İşlemci: AMD E2 7015</li>
+<li>Bellek: 4 GB DDR3</li>
+<li>Depolama kapasitesi: 256 GB SSD</li>
+<li>Boyutlar: 11,5 x 11,5 x 4,9 cm</li>
+<li>Ağırlık: 700 gr</li>
+<li>Ortalama fiyatı: ~1.800 TL</li>
+</ul>
+<p>Hem ekran kartının hem de işlemcisinin AMD olmasıyla listedeki diğer ürünlerden ayrılan ASUS PN30-BE023ZV, -evet, kopyala yapıştır yaptık :)- bilgisayarında hızlı ancak büyük bir depolama birimine ihtiyacı olmayan kullanıcıların tercih edebileceği bir ürün. Oldukça <strong>küçük ve hafif</strong> bir model. Bu durum bilgisayarın işlem gücüne de olumsuz yansıyor.</p>
+<p><strong>MSI CUBI N 8GL-012TR</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-3-Gdz1At1i.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics</li>
+<li>İşlemci: Intel Celeron N4000</li>
+<li>Bellek: 4 GB DDR3</li>
+<li>Depolama kapasitesi: 32 GB SSD</li>
+<li>Boyutlar: 11,6 x 11,2 x 4,44 cm</li>
+<li>Ağırlık: 465 gr</li>
+<li>Ortalama fiyatı: ~2.100 TL</li>
+</ul>
+<p>MSI CUBI N 8GL-012TR, Üzerinde bulunan dalgalı tasarımla MSI geleneğini yaşatır türde bir model. Alt segment ürünler arasında bulunduğu için işlem gücü tarafında yine çok büyük bir beklentiniz olmasın. Tamamen <strong>günlük işlemleri</strong> yerine getirebilmesi için tasarlanmış bir cihaz. Hatta depolama kapasitesi de oldukça düşük. İçine işletim sistemi dışında herhangi bir program ya da oyun yüklemek için pek uygun değil.</p>
+<p><strong>Orta segment mini PC modelleri:</strong></p>
+<p><strong>Dell OptiPlex 3070MF</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-4-ayKMQgtk.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Paylaşımlı</li>
+<li>İşlemci: Intel Core i3-9100T</li>
+<li>Bellek: 4 GB DDR4</li>
+<li>Depolama kapasitesi: 500 GB HDD / 120 GB SSD</li>
+<li>Boyutlar: 3,6 x 17,8 x 18,2 cm</li>
+<li>Ağırlık: 1,18 kg</li>
+<li>Ortalama fiyatı: ~2.600</li>
+</ul>
+<p>Dell OptiPlex 3070MF, teknik özellikleriyle birlikte alt segment ürünlerden sıyrılmayı hak ediyor. Kendisini alt segment ürünlerden ayıran en büyük özelliği, Intel’in ana akım işlemci modellerinden olan Core serisine ait bir işlemciye sahip olması. HDD ve SSD birlikte olmak üzere toplam <strong>620 GB depolama alanı</strong> sunuyor olması da son kullanıcıya büyük bir rahatlık sağlıyor.</p>
+<p><strong>Intel Nuc BOXNUC7I3BNH</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-5-9G8maGDG.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics</li>
+<li>İşlemci: Intel Core i3-7100U</li>
+<li>Bellek: 8 GB DDR4</li>
+<li>Depolama kapasitesi: 120 GB SSD</li>
+<li>Boyutlar: 11,5 x 11,1 x 5,2 cm</li>
+<li>Ağırlık: Belirtilmemiş (parçalar değişkenlik gösterebildiği için)</li>
+<li>Ortalama fiyatı: ~3.500 TL</li>
+</ul>
+<p>Intel Nuc, Intel’in mini PC’ler için yarattığı bir serinin ismi. O sebeple çok değişik teknik özelliklere sahip birçok farklı varyasyonuna rastlamak mümkün. İnternette bulunabilen hazır modellerden biri olan “BOXNUC7I3BNH”, depolama kapasitesi olarak orta segmentteki rakibine göre daha düşük güçlü bir seçenek olan cihaz, <strong>8 GB’lık bellek</strong> miktarıyla dikkat çekiyor.</p>
+<p><strong>Apple Mac mini</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-6-2WTyxKUE.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics 630</li>
+<li>İşlemci: Intel Core i3-8100</li>
+<li>Bellek: 8 GB</li>
+<li>Depolama kapasitesi: 256 GB SSD</li>
+<li>Boyutlar: 19,7 x 19,7 x 3,6 cm</li>
+<li>Ağırlık: 1,3 kg</li>
+<li>Ortalama fiyatı: ~6.300 TL</li>
+</ul>
+<p>Apple Mac mini, internet üzerinde pek çok farklı varyasyona sahip olan bir diğer mini PC. Biz, ürünün Apple resmî sitesinde listelenen temel özelliklerini baz aldık. Bu haliyle akıllarda orta segment bir ürün izlenimi uyandıran cihaz, <strong>yapılabilen konfigürasyonlarla</strong> birlikte rahatlıkla üst segment bir seçenek hâline getirilebilir.</p>
+<p><strong>Ürünlere bilgilendirici bir mola verelim:</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-7-ATbvL6i9.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mac bilgisayarlar için PC terimini kullanırsanız kendinizi ani bir tartışma içinde bulabilirsiniz. Çünkü kimi insanlar tarafından, PC’lerin Mac’ten farklı cihazlar olduğu düşünülür. Bu durumun kökeni, IBM’in PC tanımını <strong>baştan aşağı değiştirmesine</strong> dayanıyor. PC (<em>personal computer</em>) terimi eskiden kişisel kullanım için üretilen <strong>her bilgisayar için</strong> kullanılıyordu. 1981 yılında IBM 5150 isimli ilk bilgisayarını ürettiği zaman PC teriminin anlamı değişim geçirdi. O noktadan itibaren yalnızca IBM sistemleriyle uyumlu bilgisayarlar için PC terimi kullanılmaya başlandı.</p>
+<p>Hatta Apple bile bu akıma ayak uydurup ürettiği Mac model bilgisayarları PC kısaltmasından uzaklaştırmaya çalıştı. Ancak pazarlama gözüyle değil de <strong>anlama odaklanan</strong> bir bakış açısıyla bakılacak olursa, Mac’ler de kişisel kullanım için üretilen bilgisayarlar olduğu için PC kısaltmasına dahil olarak değerlendiriliyor.</p>
+<p><strong>Üst segment mini PC modelleri:</strong></p>
+<p><strong>Lenovo M720 Tiny</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-8-1DRYKlYP.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics 630</li>
+<li>İşlemci: Intel Core i5-8500T</li>
+<li>Bellek: 32 GB DDR4</li>
+<li>Depolama kapasitesi: 1 TB HDD / 512 GB SSD</li>
+<li>Boyutlar: 17,9 x 3,6 x 18,2 cm</li>
+<li>Ağırlık: 1,32 kg</li>
+<li>Ortalama fiyatı: ~7.000 TL</li>
+</ul>
+<p>32 GB gibi iddialı bir bellek kapasitesi ile dikkat çeken Lenovo M720 Tiny varyasyonlarından birine bakıyoruz. Yüksek depolama kapasitesi de ürünü üst segment olarak değerlendirmemizde büyük rol oynadı. Tüm bunlar, kullanıcıyı üzmeyecek bir işlemci modeliyle birleşince, günlük kullanımın dışında <strong>yüksek işlem gücü gerektiren</strong> bazı eylemler için de kullanabileceğiniz bir mini PC ortaya çıkıyor.</p>
+<p><strong>Dell OptiPlex 7070MFF</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-9-kfBaJUhl.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics 630</li>
+<li>İşlemci: Intel Core i7-9700</li>
+<li>Bellek: 8 GB DDR4</li>
+<li>Depolama kapasitesi: 256 GB SSD</li>
+<li>Boyutlar: 3,6 x 17,8 x 18,2 cm</li>
+<li>Ağırlık: 1,8 kg</li>
+<li>Ortalama fiyatı: ~8.000 TL</li>
+</ul>
+<p>Yeterli bir bellek miktarına sahip olan OptiPlex 7070MFF, depolama olarak da yüksek bir kapasite vadetmiyor. Cihazın asıl gücü, <strong>9. nesil i7 işlemci</strong> kullanmasından geliyor. Bu sebeple ofislerde rahatlıkla kullanılabilecek bir cihaz. Tabii cihazla yapılacak iş yüksek bir grafik işlem gücü gerektirmediği sürece.</p>
+<p><strong>HP EliteDesk 800 G5</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-10-LXluNzS9.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: Intel HD Graphics 630</li>
+<li>İşlemci: Intel Core i7-9700</li>
+<li>Bellek: 16 GB DDR4</li>
+<li>Depolama kapasitesi: 512 GB SSD</li>
+<li>Boyutlar: 17,7 x 17,5 x 34 cm</li>
+<li>Ağırlık: 1,05 kg</li>
+<li>Ortalama fiyatı: ~8.000 TL</li>
+</ul>
+<p>OptiPlex 7070MFF ile aynı işlemciye sahip olan HP EliteDesk 800 G5, daha fazla belleğe ve daha büyük bir depolama kapasitesine sahip. Bu yüzden grafik işlem gücü gerektirmeyen tüm işlemlerde gönül rahatlığıyla tercih edip,<strong> iyi performans alabileceğiniz</strong> bir diğer cihaz. Kendisi aynı zamanda listemizde bulunan en büyük mini PC.</p>
+<p><strong>Oyuncular için mini PC modelleri:</strong></p>
+<p><strong>MSI Trident 3 9SI-619EU</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-11-VleUFIYF.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: NVIDIA GeForce GTX 1660 Super</li>
+<li>İşlemci: Intel Core i7-9700K</li>
+<li>Bellek: 16 GB DDR4</li>
+<li>Depolama kapasitesi: 512 GB SSD</li>
+<li>Boyutlar: 34,6 x 7,1 x 23,2 cm</li>
+<li>Ağırlık: 3,13 kg</li>
+<li>Ortalama fiyatı: ~9.300 TL</li>
+</ul>
+<p>Mini PC modelleri arasında oyuncular için üretilen cihazlar çok popüler değildir. Bunun sebeplerine aşağıda değineceğiz. Ancak yine de dikkat çeken oyuncu mini oyuncu bilgisayarları bulmak mümkün. İşlemcisi, bellek miktarı ve ekran kartı ile oyunlar için üretildiği belli olan MSI Trident 3, AAA oyunlarda <strong>orta düzey bir performansı</strong> yeterli gören kullanıcılar tarafından tercih edilebilir.</p>
+<p><strong>Zotac Zbox i7 9750H</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-12-5k4w1pKT.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: NVIDIA GeForce RTX 2070 Super</li>
+<li>İşlemci: Intel Core i7-9750H</li>
+<li>Bellek: 8 GB DDR4</li>
+<li>Depolama kapasitesi: 1 TB HDD / 120 GB SSD</li>
+<li>Boyutlar: 21 x 20,3 x 6,2 cm</li>
+<li>Ağırlık:4,1 kg</li>
+<li>Ortalama fiyatı: ~13.000 TL</li>
+</ul>
+<p>Zotac, ürettiği fiyat-performans ekran kartlarıyla Türkiye piyasasına iyiden iyiye girmeyi başarmış bir firma. Hong Kong menşeili şirket, NVIDIA RTX ailesinin en performanslı üyelerinden birini koyduğu mini PC ile <strong>gözü yükseklerde olan</strong> oyuncuları gözüne kestiriyor. Bilgisayarın içinde hız gerektiren rekabetçi oyunlar oynayan kullanıcılar için küçük bir SSD bulunuyor.</p>
+<p><strong>MSI TRIDENT X PLUS 9SD-654EU</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-13-9pTJ6O14.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Ekran kartı: NVIDIA GeForce RTX 2070 Super</li>
+<li>İşlemci: Intel Core i7-9700F</li>
+<li>Bellek: 16 GB DDR4</li>
+<li>Depolama kapasitesi: 1 TB HDD / 1 TB SSD</li>
+<li>Boyutlar: 12,9 x 38,7 x 39,6 cm</li>
+<li>Ağırlık: 6,5 kg</li>
+<li>Ortalama fiyatı: ~19.000 TL</li>
+</ul>
+<p>MSI TRIDENT X PLUS gerek ekran kartı, gerek işlemci, gerek depolama alanı, gerekse de bellek miktarı ile <strong>tam anlamıyla bir oyuncu bilgisayarı</strong>. 1 TB HDD’nin yanında 1 TB SSD’nin içine çok sayıda oyun yüklenebildiği için kullanıcının yer sıkıntısı yaşaması pek olası değil. Oyunlar için “önerilen” 16 GB bellek miktarına sahip olması da işleri epey kolaylaştırıyor. Tabii cihazın fiyatı da bir hayli yüksek.</p>
+<p><strong>Bir mini PC, masaüstü bilgisayarlar kadar performanslı çalışabilir mi?</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-14-sR4nbzjY.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bir bilgisayar ne kadar iyi özelliklere sahip olursa olsun tam randımanda çalışabilmek için içindeki parçaların ideal sıcaklıklarda seyretmesi gerekir. Ekran kartı ve işlemci sıcaklıkları bir bilgisayarın performansını en çok etkileyen faktörlerden biridir. Çünkü bilgisayarların içinde <strong>en fazla ısı üreten parçalar</strong> ekran kartı ve işlemcidir. Bu iki parça yeteri kadar soğutulamazsa darboğaz sorunu yaşanır.</p>
+<p>Mini bilgisayarlar her ne kadar yük altında belirlenen güvenli sıcaklık değerleri arasında çalışsalar da soğutma performansı masaüstü bilgisayarlar kadar iyi olamaz. Çünkü masaüstü bilgisayarlar içinde bulunan fanlar sayesinde parçaları soğutan bir <strong>hava akımı oluşturma</strong> kabiliyetine sahiptir. Mini PC’lere koyulabilen fan sayısı, koyulan fanların boyutları göz önüne alındığı zaman ısı yönetimi konusunda masaüstü bilgisayarlara göre geride kaldığı görünür.</p>
+<p>Yanlış anlaşılma olmasın. Söylemek istediğimiz şey mini bilgisayarların ısıya bağlı darboğaz yaptığı değil. İyi mini PC’ler ısı kaynaklı bir <strong>darboğaz sorununu yaşatmaz</strong>. Ancak böyle bir sorun yaşanmaması adına mini bilgisayarların içine koyulan parçalar, masaüstü bilgisayarlara göre daha güçsüz olacak şekilde seçilir. Soğutma alanında gelişen teknolojiyle birlikte mini bilgisayarlar da gelişmeye başlasa da masaüstü bilgisayarları yakalamalarına daha çok var.</p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-15-UBsTJXq5.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Gelelim masaüstü bilgisayarların, mini PC’lere göre daha avantajlı olduğu bir diğer konuya. Mini bilgisayarlar, masaüstü modellere oranla çok daha kompakt cihazlardır. Bu durum yerden tasarruf etmek adına avantajlı bir durum olsa da <strong>konfigürasyon kolaylığı</strong> açısından büyük bir eksi. Bir masaüstü bilgisayarı içindeki her parçayı teker teker değiştirerek yıllar boyunca yeni gibi kullanmak mümkünken, mini bilgisayarlarla teknolojiyi yakından takip etmek bir süre sonra imkansızlaşıyor.</p>
+<p>Peki mini PC’lerin masaüstü bilgisayarlar karşısında avantajlı olduğu noktalar neler? Masaüstü bilgisayarlara göre çok daha az yer kapladıklarını biraz önce söylemiştik. Bu durum konfigürasyon tarafında bir dezavantajı beraberinde getiriyor olsa da amacı gündelik kullanım olan bir kullanıcıyı <strong>uzun bir süre</strong> rahatsız etmeyecektir.</p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-16-UnK8eb8p.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bir diğer husus ise mini bilgisayarların çok daha sessiz çalışan cihazlar olması. Yine biraz önce bahsettiğimiz soğutma sisteminin masaüstü bilgisayarlara nazaran daha güçsüz olması, sistemin çok daha sessiz çalışmasını sağlıyor. İçinde <strong>4-5 tane 120 mm’lik fan olan</strong> masaüstü bilgisayarların çıkardığı ses nerede, kimisinde küçücük fanlar olan, kimisinde ise hiç fan olmayan mini PC’lerin çıkardığı ses nerede…</p>
+<p>Bilgisayarın içinde kocaman fanlar olmamasının ses dışında getirdiği bir avantaj daha var. O da bilgisayar içinde biriken kirler. Özellikle tozlu ortamlarda bilgisayar kullanan okurlarımız anlayacaklardır. Masaüstü bilgisayarlar, içinde akıl almaz derecede çok toz biriktirebiliyor. Cihazın toz yüzünden <strong>başına bir şey gelmemesi</strong> için ise düzenli olarak temizlenmesi gerekiyor. Mini bilgisayarlar çok daha uzun bir süre temizlenmeye gerek duymadan çalışabiliyor.</p>
+<p><strong>Aynı modeli uçuk fiyat farklarıyla bulursanız dikkat etmeniz gereken bir şey var:</strong></p>
+<p><img src="/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-17-y1XIjqBI.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Listemizde bulunan ürünlerin neredeyse hepsinin aynı teknik özelliklerle çok farklı fiyatlara satıldığını görebilirsiniz. Yapılan <strong>kampanyalar </strong>ve <strong>indirimleri </strong>hariç tutacak olursak, bu durumun arkasında alışveriş yaparken aklınızda bulundurmanız gereken bir sebep var.</p>
+<p>Microsoft onaylı Windows lisansları kişisel kullanım için tek başına satın alındığı zaman <strong>fiyatları 1.000 TL&#39;yi aşabiliyor</strong>. Haliyle bu fiyat farkı Windows lisansıyla birlikte satılan bilgisayara da yansıyor. Eğer karşılaştırdığınız zaman normal olmayan bir fiyat değişikliğine rastlarsanız, bilgisayarın özelliklerinde işletim sistemi kısmında Windows mu yoksa FreeDOS mu yazdığına dikkat edin.</p>
+<p>Türkiye pazarında bulabileceğiniz mini PC’leri kategorize ettiğimiz listemizin sonuna geldik. Yurtdışında ulaşılması daha kolay olsa da Türkiye’de de azımsanmayacak çeşitlikte ürün olduğunu görebiliyoruz. Türkiye’de satılan en iyi akıllı telefonlar, <strong>mini PC modelleri</strong> ve daha birçok liste içeriğimizi kaçırmamak için bizi takipte kalın.</p>d:X
+12:X
+12:C
+0:{"buildId":"wXh_UvXRlyat4GYttAIJS","data":[{"rsc":["$","$1","c",{"children":[[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L2",null,{"className":"journal-back","href":"/blog/","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Hem Küçük Hem Şık 12 Mini PC"}],["$","p",null,{"className":"journal-article-lead","children":"Bilgisayarlar söz konusu olduğu zaman hız, performans ve güç gibi avantajlar gürültüyle gelmek zorunda değil. Hem alandan tasarruf ederken hem…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L4",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-05-26","children":"26 Mayıs 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L3",null,{"icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"size":14}],"9 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L4",null,{"src":"/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-9WqKsM6I.jpg","alt":"Hem Küçük Hem Şık 12 Mini PC","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L2",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L3",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$5"}}],[],"$L6","$L7"]}]]}]]}],"$L8","$L9","$La"],null,"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$d","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+1e:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1f:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+20:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+21:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+22:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+23:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+6:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L2",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}]]}]
+7:["$","$L2",null,{"href":"/blog/","className":"journal-back","children":[["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:0:props:children:0:props:children:0:props:icon","size":15}]," Tüm yazılara dön"]}]
+8:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L2",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L2","yemek-siparisi-vermek-icin-en-iyi-10-uygulama",{"className":"journal-related-card","href":"/blog/yemek-siparisi-vermek-icin-en-iyi-10-uygulama/","children":[["$","div",null,{"children":["$","$L4",null,{"src":"/wp-content/uploads/2020/05/yemek-siparisi-vermek-icin-en-iyi-10-uygulama-XKGtym4d.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Yemek Siparişi Vermek İçin En İyi 10 Uygulama"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":16}]]}]]}],["$","$L2","pcnizde-dijital-para-uretiliyor-olabilir",{"className":"journal-related-card","href":"/blog/pcnizde-dijital-para-uretiliyor-olabilir/","children":[["$","div",null,{"children":["$","$L4",null,{"src":"/wp-content/uploads/2020/05/pcnizde-dijital-para-uretiliyor-olabilir-ylY9JtjE.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"PC’nizde Dijital Para Üretiliyor Olabilir!"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":16}]]}]]}]]}]]}]
+9:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L2",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Hem Küçük Hem Şık 12 Mini PC\",\"description\":\"Bilgisayarlar söz konusu olduğu zaman hız, performans ve güç gibi avantajlar gürültüyle gelmek zorunda değil. Hem alandan tasarruf ederken hem…\",\"datePublished\":\"2020-05-26\",\"dateModified\":\"2020-05-26\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/hem-kucuk-hem-sik-12-mini-pc/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-9WqKsM6I.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Hem Küçük Hem Şık 12 Mini PC | ZEYNART"}],["$","meta","1",{"name":"description","content":"Bilgisayarlar söz konusu olduğu zaman hız, performans ve güç gibi avantajlar gürültüyle gelmek zorunda değil. Hem alandan tasarruf ederken hem…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/hem-kucuk-hem-sik-12-mini-pc/"}],["$","meta","4",{"property":"og:title","content":"Hem Küçük Hem Şık 12 Mini PC | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Bilgisayarlar söz konusu olduğu zaman hız, performans ve güç gibi avantajlar gürültüyle gelmek zorunda değil. Hem alandan tasarruf ederken hem…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/hem-kucuk-hem-sik-12-mini-pc/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-9WqKsM6I.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-05-26"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Hem Küçük Hem Şık 12 Mini PC"}],["$","meta","16",{"name":"twitter:description","content":"Bilgisayarlar söz konusu olduğu zaman hız, performans ve güç gibi avantajlar gürültüyle gelmek zorunda değil. Hem alandan tasarruf ederken hem…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/05/hem-kucuk-hem-sik-12-mini-pc-9WqKsM6I.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1e","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L21",null,{}],["$","main",null,{"id":"main","children":["$","$L1f",null,{"parallelRouterKey":"children","error":"$22","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true}]],"template":["$","$L20",null,{}],"notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L2",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"size":17}]]}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L2",null,{"href":"/","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L4",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L2","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L2","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L2","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L2","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L2",null,{"href":"/projeler","children":"Projeler"}],["$","$L2",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L2",null,{"href":"/blog","children":"İçgörüler"}],["$","$L2",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L2",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L2",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L2",null,{"href":"/kvkk","children":"KVKK"}],["$","$L2",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L23",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}]
+1b:null
+18:true
+d:300
+d:C
+17:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+16:"$undefined"
+c:"$undefined"

@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+3:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+4:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+5:T31b7,<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-0-tBSaLX97.jpg" alt="" loading="lazy" decoding="async"></p>
+<p><strong><em>Mekanik klavyeler,</em></strong> bilgisayarlar için yaygın olarak kullanılan ilk klavyelerdi. Gelişimini tam anlamıyla 1980 yılında tamamlayan bu klavyeler, 1990 yılında ise yerini silikon tabanlı daha basit klavyelere bıraktı. 2000’li yıllarda ise mekanik klavyelerin avantajlarını tekrar keşfeden kullanıcılar sayesinde popülerliği bir hayli arttı ve firmalar yeni nesil klavyeler üretildi.</p>
+<p>Günbegün popülerliği artan mekanik klavyeler, değişik tasarımları, renkli ışıklandırmaları ve dayanıklılığı gibi birçok yönü sayesinde oyuncuların göz bebeği haline geldi. Biz de bu yazımızda önce <em><strong>mekanik klavye nedir</strong></em> sorusunu yanıtladık, sonrasında ise var olan switch türlerini ve mekanik klavye ile normal klavye arasındaki farklar<em><strong>ı </strong></em>maddeler haline açıkladık.</p>
+<p><strong>Mekanik klavye nedir?</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-1-ZOWjH66y.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyeler, aşina olduğumuz normal klavyelerden farklı olarak her bir tuşun bağımsız ve ayrı bir mekanik anahtara sahip olduğu klavyelerdir.<em><strong> “Mekanik klavye”</strong></em> ismini de bu nedenle almıştır.</p>
+<p>Aslında her klavye bir mekaniğe sahiptir ancak mekanik klavyelerde durum biraz daha farklı. Mekanik klavyelerde her bir tuşa ait ayrı bir switch yani anahtar bulunur. Oyuncuların mekanik klavyeleri tercih etme nedenlerinin başında düşük tepki süreleri ve bu klavyelerin daha uzun ömürlü olması gelir. Bu sayede oyuncular, switchlerin düşük tepki süresi sayesinde rakiplerine karşı avantaj sağlayabilir.</p>
+<p><strong>Mekanik klavyelerde bulunan switch türleri nelerdir?</strong></p>
+<ul>
+<li><strong>Linear switch:</strong> Switchin hareketi sırasında geri bildirim hissedilmez.</li>
+<li><strong>Tactile switch: </strong>Switchin hareketi sırasında geri bildirim hissedilir.</li>
+<li><strong>Clicky switch: </strong>Switchin hareketi sırasında tıklama sesi duyulur.</li>
+</ul>
+<p>Aslına bakarsanız hangi mekanik klavyeyi alırsanız alın, hepsi oyun oynamak için ideal bir klavye olacaktır. Örneğin <strong>Tactile </strong>ve <strong>Clicky </strong>türündeki switchlerde her tıklama esnasında bir onay ve geri bildirim alınır. Tuşa sonuna kadar basmaya gerek kalmadan belli bir noktada tuş aktive olduğu için daha hızlı yazma imkanı sunar.</p>
+<p>FPS gibi daha hızlı tempolu oyun türleri için ise <strong>Linear switchler</strong> avantaj sağlayabilir. Tactile ve Clicky türü switchlerden farklı olarak herhangi bir geri bildirim olmadığı için tuşa daha hızlı basılma olanağı sağlar ve bu sayede rakiplere karşı avantaj sağlayabilirsiniz.</p>
+<p><strong>Cherry MX Switchleri:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-2-gsEap5wq.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Cherry, piyasadaki en eski switch üreticisi olmasının yanında en çok bilinen switch markasıdır. 1983 yılında patentini aldığı Cherry MX switchleri<strong> renklerine göre adlandırılır</strong>. Üretilen switchlerin özellikleri ise renklerine göre kategorize olup farklılık gösterir.</p>
+<p><strong>Cherry MX Kırmızı:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-3-mD8rOO8G.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyatı: </strong>Yumuşak</li>
+<li><strong>Klik sesi:</strong> Yok</li>
+<li><strong>Hareket kuvveti: </strong>45 cN</li>
+<li><strong>Atlama noktası:</strong> Yok</li>
+<li><strong>Yaklaşık ömrü: </strong>Her switch başına 50 milyon milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Cherry MX Siyah:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-4-PBeQGCwW.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyatı: </strong>Ağır</li>
+<li><strong>Klik sesi:</strong> Az</li>
+<li><strong>Hareket kuvveti:</strong> 60 cN</li>
+<li><strong>Atlama noktası:</strong> Yok</li>
+<li><strong>Yaklaşık ömrü:</strong> Her switch başına 50 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Cherry MX Mavi:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-5-cDQzpKDn.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyatı: </strong>Ağır</li>
+<li><strong>Klik sesi:</strong> Yüksek</li>
+<li><strong>Hareket kuvveti: </strong>50 cN</li>
+<li><strong>Atlama noktası:</strong> Var</li>
+<li><strong>Yaklaşık ömrü:</strong> Her switch başına 50 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Cherry MX Yeşil:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-6-2PuhuPkJ.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyatı: </strong>Ağır</li>
+<li><strong>Klik sesi: </strong>Yüksek</li>
+<li><strong>Hareket kuvveti:</strong> 80 cN</li>
+<li><strong>Atlama noktası:</strong> Var</li>
+<li><strong>Yaklaşık ömrü: </strong>Her switch başına 50 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Cherry MX Kahverengi:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-7-8J6cPwaB.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyatı: </strong>Orta</li>
+<li><strong>Klik sesi: </strong>Yok</li>
+<li><strong>Hareket kuvveti:</strong> 45 cN</li>
+<li><strong>Atlama noktası: </strong>Var</li>
+<li><strong>Yaklaşık ömrü:</strong> Her switch başına 50 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Cherry MX Beyaz:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-8-1OINCyPc.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyatı:</strong> Orta</li>
+<li><strong>Klik sesi:</strong> Yok</li>
+<li><strong>Hareket kuvveti:</strong> 65 cN</li>
+<li><strong>Atlama noktası:</strong> Var</li>
+<li><strong>Yaklaşık ömrü:</strong> Her switch başına 50 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Razer switchleri:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-9-RQ2NODg6.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Razer, 2014 yılında Razer <strong>BlackWidow mekanik klavyelerini </strong>geliştirdi ve kendi switchlerinin üretimine başladı. Geri bildirim hissi özelliği bulunan ve aynı zamanda dayanıklılığıyla da bilinen switchlerinde şu an sadece Razer Green, Razer Orange ve Razer Yellow adı verilen switch çeşitleri mevcut.</p>
+<p><strong>Razer Yeşil:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-10-1YIJiJyB.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyat: </strong>Ağır</li>
+<li><strong>Klik sesi:</strong> Yüksek</li>
+<li><strong>Hareket kuvveti: </strong>50 cN</li>
+<li><strong>Yaklaşık ömrü:</strong> Her switch başına 60 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Razer Turuncu:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-11-QTbQDXiu.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyat:</strong> Orta</li>
+<li><strong>Klik sesi:</strong> Yok</li>
+<li><strong>Hareket kuvveti: </strong>45 cN</li>
+<li><strong>Yaklaşık ömrü: </strong>Her switch başına 60 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Razer Sarı:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-12-tPJOAHZp.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Hissiyat:</strong> Yumuşak</li>
+<li><strong>Klik sesi:</strong> Yok</li>
+<li><strong>Hareket kuvveti:</strong> 45 cN</li>
+<li><strong>Yaklaşık ömrü:</strong> Her switch başına 80 milyon tuş basım ömrü</li>
+</ul>
+<p><strong>Mekanik klavye ve normal klavye arasındaki farklar nelerdir?</strong></p>
+<ul>
+<li>Ağırlık</li>
+<li>Fiyat</li>
+<li>Görünüş</li>
+<li>Dayanıklılık</li>
+<li>Fonksiyonel tuşlar</li>
+<li>Yanıt süresi</li>
+<li>Tuş sesi</li>
+<li>Temizlik</li>
+</ul>
+<p><strong>Ağırlık:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-13-ffYVcLvC.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Normal klavyeler, mekanik klavyelere göre çok daha hafiftir. Mekanik klavyelerde<strong> her bir tuşa ayrı bir switchin olması</strong>, klavyenin daha ağır olmasına neden olur. Ağırlık, klavyeyi bir yerden bir yere taşıma işlemi sırasında biraz sorun yaratsa da mekanik klavyenin ağır olması masada kaymamasını engellemek gibi küçük bir artısı da vardır.</p>
+<p><strong>Fiyat:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-14-jMAdg51T.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyeler daha pahalı malzemeler kullanır ve sahip olduğu teknoloji daha ileridedir. Bu nedenle daha maliyetlidir. Normal klavyelerde ise basit bir kauçuk kullanıldığı için daha ucuz maliyete sahiptir.</p>
+<p><strong>Görünüş:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-15-e7rbswj4.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Oyuncu klavyeleri geliştiren şirketler, ön plana çıkmak için çok farklı ve dikkat çekici tasarımlara imza atıyorlar. Mekanik klavyelerde dikkat çeken ve<strong> göze hoş gelen RBG ışıklandırmalar veya tek renk LED ışıkların bulunması</strong>, mekanik klavyeleri normal klavyelerden daha dikkat çekici hale getiriyor.</p>
+<p><strong>Dayanıklılık:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-16-nZavcbJZ.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyeler, membran adıyla da bilinen normal klavyelere göre daha uzun ömürlüdür. Bunun nedeni ise mekanik klavyelerde her bir tuş için ayrı bir anahtarın, diğer bir adla switchin bulunuyor olmasıdır. Normal klavyeler 5 milyon tuş vurma ömrüne sahip iken <strong>mekanik klavyeler yaklaşık 60-80 milyon tuş basma ömrüne sahip olması </strong>mekanik klavyelerin cezbedici yanlarından birisidir.</p>
+<p><strong>Fonksiyonel tuşlar:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-17-hzqUVSit.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyelerde genellikle normal klavyelere göre <strong>çok daha fazla işlevsel tuş bulunmaktadır</strong>. Bu durum oyunlarda oyunculara fazladan makro yapma veya ekstra yetenek atama gibi özellikler sağlar.</p>
+<p><strong>Yanıt süresi:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-18-88vnNUOq.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyelerdeki <strong>tuşların geri bildirimi oldukça hızlıdır</strong>. Bazı mekanik klavyelerde tuşların algılanması için daha az kuvvet gerekir hatta tuşa sonuna kadar basmaya gerek bile kalmaz. Ancak bu da klavyeyi daha duyarlı hale getirdiği için sık sık yanlış yazmaya neden olabilir.</p>
+<p><strong>Tuş sesi:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-19-VR1aWSxD.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyenin ses seviyesi, klavyede bulunan switche bağlıdır. <strong>Klavyeyi kullanacağınız ortama göre seçmeniz daha uygun olacaktır</strong> çünkü bazı insanlar mekanik klavyenin çıkardığı daktilo benzeri sesten hoşlanırken bazı insanlar için çekilmez olabilir. Bu yüzden ofis veya okul gibi ortamlarda daha sessiz olduğu için membran klavye tercih edilir.</p>
+<p><strong>Temizlik:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-20-RuVCI6eY.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Mekanik klavyelerin temizliği diğer klavyelere göre çok daha basittir. Her bir tuşun ayrı ayrı çıkarılıp takılabilmesi sayesinde mekanik klavyeleri detaylıca ve daha kolayca temizlenebilir.</p>d:X
+12:X
+12:C
+0:{"buildId":"wXh_UvXRlyat4GYttAIJS","data":[{"rsc":["$","$1","c",{"children":[[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L2",null,{"className":"journal-back","href":"/blog/","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Mekanik Klavye ve Normal Klavye Arasındaki 8 Önemli Fark"}],["$","p",null,{"className":"journal-article-lead","children":"Mekanik klavyeler, bilgisayarlar için yaygın olarak kullanılan ilk klavyelerdi. Gelişimini tam anlamıyla 1980 yılında tamamlayan bu klavyeler…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L4",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-08-13","children":"13 Ağustos 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L3",null,{"icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"size":14}],"5 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L4",null,{"src":"/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-AuLky1Px.jpg","alt":"Mekanik Klavye ve Normal Klavye Arasındaki 8 Önemli Fark","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L2",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L3",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$5"}}],[],"$L6","$L7"]}]]}]]}],"$L8","$L9","$La"],null,"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$d","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+1e:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1f:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+20:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+21:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+22:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+23:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+6:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L2",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}]]}]
+7:["$","$L2",null,{"href":"/blog/","className":"journal-back","children":[["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:0:props:children:0:props:children:0:props:icon","size":15}]," Tüm yazılara dön"]}]
+8:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L2",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L2","intel-oyunculara-yonelik-xe-hpg-gpuyu-duyurdu",{"className":"journal-related-card","href":"/blog/intel-oyunculara-yonelik-xe-hpg-gpuyu-duyurdu/","children":[["$","div",null,{"children":["$","$L4",null,{"src":"/wp-content/uploads/2020/08/intel-oyunculara-yonelik-xe-hpg-gpuyu-duyurdu-fDgXPvqF.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Intel, Oyunculara Yönelik Xe HPG GPU’yu Duyurdu"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":16}]]}]]}],["$","$L2","pubgde-nefes-kesen-mac-oyun-canavari-21",{"className":"journal-related-card","href":"/blog/pubgde-nefes-kesen-mac-oyun-canavari-21/","children":[["$","div",null,{"children":["$","$L4",null,{"src":"/wp-content/uploads/2020/08/pubgde-nefes-kesen-mac-oyun-canavari-21-qj7AgllV.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"PUBG’de nefes kesen maç! Oyun Canavarı #21"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":16}]]}]]}]]}]]}]
+9:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L2",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Mekanik Klavye ve Normal Klavye Arasındaki 8 Önemli Fark\",\"description\":\"Mekanik klavyeler, bilgisayarlar için yaygın olarak kullanılan ilk klavyelerdi. Gelişimini tam anlamıyla 1980 yılında tamamlayan bu klavyeler…\",\"datePublished\":\"2020-08-13\",\"dateModified\":\"2020-08-13\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-AuLky1Px.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mekanik Klavye ve Normal Klavye Arasındaki 8 Önemli Fark | ZEYNART"}],["$","meta","1",{"name":"description","content":"Mekanik klavyeler, bilgisayarlar için yaygın olarak kullanılan ilk klavyelerdi. Gelişimini tam anlamıyla 1980 yılında tamamlayan bu klavyeler…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark/"}],["$","meta","4",{"property":"og:title","content":"Mekanik Klavye ve Normal Klavye Arasındaki 8 Önemli Fark | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Mekanik klavyeler, bilgisayarlar için yaygın olarak kullanılan ilk klavyelerdi. Gelişimini tam anlamıyla 1980 yılında tamamlayan bu klavyeler…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-AuLky1Px.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-08-13"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Mekanik Klavye ve Normal Klavye Arasındaki 8 Önemli Fark"}],["$","meta","16",{"name":"twitter:description","content":"Mekanik klavyeler, bilgisayarlar için yaygın olarak kullanılan ilk klavyelerdi. Gelişimini tam anlamıyla 1980 yılında tamamlayan bu klavyeler…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/08/mekanik-klavye-ve-normal-klavye-arasindaki-8-onemli-fark-AuLky1Px.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1e","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L21",null,{}],["$","main",null,{"id":"main","children":["$","$L1f",null,{"parallelRouterKey":"children","error":"$22","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true}]],"template":["$","$L20",null,{}],"notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L2",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"size":17}]]}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L2",null,{"href":"/","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L4",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L2","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L2","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L2","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L2","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L2",null,{"href":"/projeler","children":"Projeler"}],["$","$L2",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L2",null,{"href":"/blog","children":"İçgörüler"}],["$","$L2",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L2",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L2",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L2",null,{"href":"/kvkk","children":"KVKK"}],["$","$L2",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L23",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}]
+1b:null
+18:true
+d:300
+d:C
+17:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+16:"$undefined"
+c:"$undefined"

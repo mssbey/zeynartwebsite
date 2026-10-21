@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+3:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+4:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+5:T3723,<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-0-WTNn5aC4.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Intel’in 10. nesil Ice Lake işlemcilerini piyasaya sürmesinin ardından çok fazla bir vakit geçmeden <strong>11. nesil Intel Tiger Lake</strong> işlemcilerin özellikleri ve sistemlerde yer alacağı tarihler belli olmaya başladı.</p>
+<p>Mevcut 10. nesil işlemcilere göre yapay zeka iyileştirmeleri ve işlemci hızı artışı barındıran Intel Tiger Lake işlemciler, yeni Xe grafik mimarisiyle daha iyi entegre ekran kartı performansı göstermeyi amaçlıyor ve 10. nesil işlemcilere göre en az %20’lik bir performans artışı gözlemleniyor. Gelin hep beraber <em><strong>11. nesil Intel Tiger Lake</strong></em> <strong>işlemcilerin özellikleri</strong>, çıkış tarihi ve açıklanan detayları nelermiş? Yakından bakalım.</p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-1-5EZAil9f.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>2020 yılının Eylül ayında Intel, canlı yaptığı basın konferansında yeni 11. nesil Tiger Lake işlemcilerini duyurdu. Yeni işlemciler <strong>Iris Xe entegre ekran kartı teknolojisini</strong> kullanıyor ve Thunderbolt 4 ve WiFi 6 teknolojilerini destekliyor.</p>
+<p><strong>Intel Tiger Lake (11. nesil) işlemci modelleri:</strong></p>
+<ul>
+<li>Core i7-1185G7</li>
+<li>Core i7-1165G7</li>
+<li>Core i5-1135G7</li>
+<li>Core i3-1125G4</li>
+<li>Core i3-1115G4</li>
+<li>Core i7-1160G7</li>
+<li>Core i5-1130G7</li>
+<li>Core i3-1120G4</li>
+<li>Core i3-1110G4</li>
+</ul>
+<p><em>Intel Tiger Lake</em> kod isimli yeni 11. nesil i3, i5 ve i7 işlemciler; sistemlerimize 10. nesillere göre daha iyi bir işlemci ve daha stabil ve güçlü bir entegre grafik performansı getirmeyi amaçlıyor. Şu an Dell XPS 13 ve Microsoft Surface Laptop 3 gibi dizüstü bilgisayarlarda kullanılan <strong>10. nesil Intel Ice Lake</strong> işlemcilerin yerini almayı planlayan Intel Tiger Lake işlemciler, aynı zamanda AMD’nin yeni Ryzen 4000 mobil işlemcilerin de yerini almaya çalışacak.</p>
+<p>Intel her ne kadar 10. nesil Ice Lake mobil işlemcileriyle gelen Iris Plus entegre ekran kartı sistemiyle üstün bir performans sağlasa da Tiger Lake işlemciler, Xe grafik mimarisiyle Iris Plus teknolojisini hem performans hem de stabilite yönünden geride bırakmayı başaracak gibi duruyor.</p>
+<p><strong>Core i7-1185G7 özellikleri:</strong></p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-2-bgAMFYA5.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel Iris Xe 96 EUs</li>
+<li>İşlemci temel frekansı: 3,0 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 4,8 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 4,3 GHz</li>
+<li>Önbellek: 12 MB</li>
+<li>Güç aralığı: 12 &#8211; 28W</li>
+</ul>
+<p>Tıpkı Ice Lake serisi işlemcilerde olduğu gibi Tiger Lake serisi de iki gruba ayrılıyor. Bir grup yüksek performans için yüksek güç tüketimi yaparken, diğer gruptaki işlemcilerin ise batarya ömrünün daha uzun olacağı ultra ince dizüstü bilgisayarlarda kullanılması planlanıyor.</p>
+<p>Performans grubunun en başında ise Intel Core i7-1185G7 yer alıyor. Core i7-1185G7, 4,3 GHz frekansında hızıyla, 12 MB önbelleğiyle ve Xe mimarisine sahip en yüksek ekran kartı modeliyle tamamen bir performans canavarı olarak nitelendiriliyor.</p>
+<p><strong>Core i7-1165G7 özellikleri:</strong></p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-3-I9MF9L5l.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel Iris Xe 96 EUs</li>
+<li>İşlemci temel frekansı: 2,8 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 4,7 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 4,1 GHz</li>
+<li>Önbellek: 12 MB</li>
+<li>Güç aralığı: 12 &#8211; 28W</li>
+</ul>
+<p>Performans grubunun bir diğer güçlü işlemcisi olan Core i7-1165G7, 1185G7 ile neredeyse birebir özelliklere sahip. Bu Core i7-1165G7’nin diğer işlemciden tek farkı ise <strong>0,3’lük daha yavaş olan</strong> frekans hızı.</p>
+<p><strong>Core i5-1135G7 özellikleri:</strong></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel Iris Xe 80 EUs</li>
+<li>İşlemci temel frekansı: 2,4 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 4,2 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 3,8 GHz</li>
+<li>Önbellek: 8 MB</li>
+<li>Güç aralığı: 12 &#8211; 28W</li>
+</ul>
+<p>Yüksek performans grubu Intel Tiger Lake işlemcilerin i5 konfigürasyonu olan <strong>Core i5-1135G7</strong>, i7 Tiger Lake kardeşleri gibi 4 çekirdek ve 8 iş parçacığı ile birlikte geliyor. Doğal olarak i7 versiyonlarına göre daha düşük önbelleğe ve frekans hızına sahip olan Core i5-1135G7’nin Microsoft Surface Laptop 4 gibi iş istasyonu mobil bilgisayarların vazgeçilmez işlemcilerinden olacağı düşünülüyor.</p>
+<p><strong>Core i3-1125G4 özellikleri:</strong></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel UHD Graphics 48 EUs</li>
+<li>İşlemci temel frekansı: 2,0 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 3,7 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 3,3 GHz</li>
+<li>Önbellek: 8 MB</li>
+<li>Güç aralığı: 12 &#8211; 28W</li>
+</ul>
+<p>Yeni nesil Tiger Lake işlemcilerin yüksek performans grubunda yer alan i3 versiyonuna baktığımızda, nispeten daha düşük özellikler bizleri karşılıyor. <strong>Iris Xe ekran kartı </strong>teknolojisinden de yoksun kalan bu işlemcinin Lenovo, Acer, ASUS, Dell ve Microsoft gibi markaların ultra taşınabilir dizüstü bilgisayarlarında kullanılması bekleniyor.</p>
+<p><strong>Core i3-1115G4 özellikleri:</strong></p>
+<ul>
+<li>Çekirdek sayısı: 2</li>
+<li>İş parçacığı sayısı: 4</li>
+<li>Grafikler: Intel UHD Graphics 48 EUs</li>
+<li>İşlemci temel frekansı: 3,0 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 4,1 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 4,1 GHz</li>
+<li>Önbellek: 6 MB</li>
+<li>Güç aralığı: 12 &#8211; 28W</li>
+</ul>
+<p><strong>Core i3-1125G4</strong> ile hemen hemen aynı özelliklere sahip olan bu işlemci, çekirdek bakımından yarı yarıya bir düşüş yaşarken frekans hızı noktasında 4,11 GHz hızına kadar yükseliyor. Diğer bütün özellikleri bir önceki işlemci ile aynı olan Core i3-1115G4, yine ultra taşınabilir dizüstü bilgisayarları güçlendirmeye aday bir işlemci.</p>
+<p><strong>Core i7-1160G7 özellikleri:</strong></p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-4-TJ58hDuj.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel Iris Xe 96 EUs</li>
+<li>İşlemci temel frekansı: 1,2 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 4,4 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 3,6 GHz</li>
+<li>Önbellek: 12 MB</li>
+<li>Güç aralığı: 7 &#8211; 15W</li>
+</ul>
+<p>Düşük performans isteyen dizüstü bilgisayarlarda kullanılacak ikinci grup Tiger Lake işlemcilerine baktığımızda bizleri ilk olarak Core i7-1160G7 işlemcisi karşılıyor. Entegre ekran kartı yönünde yine Iris Xe mimarisi kullanılan bu işlemci de temel frekans hızı güç tüketimini minimuma indirgemek için 1,2 GHz bandında tutuluyor.</p>
+<p><strong>Core i5-1130G7 özellikleri:</strong></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel Iris Xe 96 EUs</li>
+<li>İşlemci temel frekansı: 1,1 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 4,0 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 3,4 GHz</li>
+<li>Önbellek: 8 MB</li>
+<li>Güç aralığı: 7 &#8211; 15W</li>
+</ul>
+<p>Core i7 düşük performans işlemcinin i5 versiyonu olan<strong> Core i5-1130G7</strong>, önbellek konusunda ve temel frekans hızında i7 versiyonundan geride kalıyor. Fakat hâla tek çekirdek performansında 4,0 GHz bandına ulaşabilen bu işlemci daha önce bahsettiğimiz diğer işlemcilerin hepsinden daha az enerji tüketiyor.</p>
+<p><strong>Core i3-1120G4 özellikleri:</strong></p>
+<ul>
+<li>Çekirdek sayısı: 4</li>
+<li>İş parçacığı sayısı: 8</li>
+<li>Grafikler: Intel UHD Graphics 48 EUs</li>
+<li>İşlemci temel frekansı: 1,1 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 3,5 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 3,0 GHz</li>
+<li>Önbellek: 8 MB</li>
+<li>Güç aralığı: 7 &#8211; 15W</li>
+</ul>
+<p>Bir önceki işlemciyle hemen hemen aynı özelliklere sahip olan <strong>Core i3-1120G4</strong>, Xe teknolojisi yerine UHD entegre ekran kartı kullanıyor. Önbellek konusunda Core i5 versiyonuyla aynı değerde olan bu işlemci tekli çekirdekte en fazla 3,5 GHz hıza erişebiliyor.</p>
+<p><strong>Core i3-1110G4 özellikleri:</strong></p>
+<ul>
+<li>Çekirdek sayısı: 2</li>
+<li>İş parçacığı sayısı: 4</li>
+<li>Grafikler: Intel UHD Graphics 48 EUs</li>
+<li>İşlemci temel frekansı: 1,8 GHz</li>
+<li>Maks Turbo frekansı (tek çekirdek): 3,9 GHz</li>
+<li>Maks Turbo frekansı (çok çekirdek): 3,9 GHz</li>
+<li>Önbellek: 6 MB</li>
+<li>Güç aralığı: 7 &#8211; 15W</li>
+</ul>
+<p>11. nesil Intel Tiger Lake işlemcilerin en zayıf halkası ve muhtemelen en ucuz olacak olan versiyonu <strong>Core i3-1110G4</strong> olarak karşımıza çıkıyor. 2 çekirdekli yapıya sahip olan bu işlemci 6 MB önbellek ile serinin en düşük önbelleğe sahip modeli oluyor. Bütün 11. nesil Intel Tiger Lake işlemcileri, DDR4 4266 MHz değerine kadar RAM destekliyor.</p>
+<p><strong>Intel Tiger Lake işlemciler ne zaman çıkacak?</strong></p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-5-DNMXEQgz.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Intel’in Tiger Lake işlemcileri duyurduğu etkinlikte Samsung Galaxy Book Flex 5G ve ASUS Expertbook 14’ün yanı sıra Tiger Lake işlemci kullanılacak Acer, Lenovo, Dell, HP ve Dynabook marka dizüstü bilgisayarlar da tanıtıldı. Eylül ayından itibaren tanıtılmaya başlanan Tiger Lake işlemcili bilgisayarların 2021 yılına kadar çıkmaya başlayacağı düşünülüyor.</p>
+<p>Tiger Lake işlemcilerin bir önceki nesilden en çok ayrıldığı ve güçlü olduğu nokta yeni Iris Xe entegre ekran kartı teknolojisi olarak karşımıza çıkıyor. Intel Xe-LP mimarisine sahip yeni entegre ekran kartları, Ice Lake işlemcilerde bulunan<strong> Iris Plus</strong> grafiklerden <strong>2 kat daha fazla</strong> performans veriyor.</p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-6-Ofedf1Ey.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>64 EUs teknolojisiyle donatılan Iris Plus ekran kartları tüm modern oyunları oynatamaz ve nispeten düşük FPS değerleri görmemize neden olurken 96 EUs teknolojisiyle donatılan yeni Iris Xe ekran kartları<strong> 1080p çözünürlükte</strong> neredeyse tüm modern oyunları akıcı bir FPS değerinde oynatabiliyor. Intel’in gösterdiği videolara göre Hitman 2, Borderlands 3 ve Far Cry New Dawn gibi oyunlar 1080p çözünürlükte gayet akıcı FPS değerleriyle oynanabiliyor.</p>
+<p>Intel tüm bunların yanı sıra, Iris Xe ekran kartlarının <strong>AMD Ryzen 7 4800U</strong> işlemcisinin entegre Radeon ekran kartlarını performans yönünden geride bıraktığını iddia ediyor. Ayrıca Intel; yeni Iris Xe ekran kartlarının, <strong>NVIDIA MX350</strong> harici ekran kartlarıyla 10. nesil Intel işlemcilerin birleşiminden çıkan performansı da geride bıraktığını belirtiyor. Her ne kadar Iris Xe ekran kartları kusursuz bir oyun deneyim sunamayacak olsa da yine de kullanıcılar dizüstü bilgisayarların rahatlığında 1080p çözünürlükte modern oyunların keyfini bir derece çıkarabilecek gibi duruyor.</p>
+<p><strong>Intel Tiger Lake işlemcileri üzerine son sözler:</strong></p>
+<p><img src="/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-7-vI8qOdFf.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Ultra taşınabilir ve hafif dizüstü bilgisayarlardan beklediğiniz sonuçlara göre Tiger Lake işlemciler, 10. nesil Intel Ice Lake işlemcilere göre ortalama düzeyde bir yükseltme sağlayacak veya yeni ultra hafif bilgisayarların tadını daha iyi çıkarmanıza yardımcı olacak. Intel Ice Lake işlemcilerin <strong>10nm mimarisinin üzerine </strong>geliştirilen Tiger Lake işlemcilerin günlük kullanımda ortalama bir yükseliş ortaya koyacağı düşünülüyor.</p>
+<p>Tiger Lake işlemcilerin ise asıl yıldızının entegre ekran kart tarafında parladığı düşünülüyor. Tiger Lake işlemcilerin sahip olduğu Iris Xe ekran kartları, bir önceki nesle göre oldukça iyi bir performans artışı sağlıyor. Ayrıca ortaya çıkan söylentilere göre <strong>Intel’in 2021 yılında</strong> Iris Xe mimarisindeki ekran kartlarına ışın izleme teknolojisini entegre edeceği söyleniyor. </p>
+<p><strong>11. nesil Intel Tiger Lake işlemciler </strong>ile ilgili ortaya çıkan tüm detaylara yakından baktığımız içeriğimizin sonuna geldik. Intel, AMD ile olan rekabetin iyice kızışması sonucunda ardı ardına yeni nesil işlemcilerini tanıtmaya ve yeni teknolojilerini hızlandırmaya devam ediyor. Sizler yeni çıkacak olan 11. nesil Inter Tiger Lake işlemciler hakkında neler düşünüyorsunuz? Sizce yeni Tiger Lake işlemciler AMD ile olan yarışta Intel’i öne geçirmeyi başarabilecek mi? Görüşlerinizi ve düşüncelerinizi bizlerle yorumlar kısmında paylaşabilirsiniz.</p>d:X
+12:X
+12:C
+0:{"buildId":"wXh_UvXRlyat4GYttAIJS","data":[{"rsc":["$","$1","c",{"children":[[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L2",null,{"className":"journal-back","href":"/blog/","children":[["$","$L3",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Intel 11. Nesil İşlemciler Geliyor: Özellikleri ve Detayları"}],["$","p",null,{"className":"journal-article-lead","children":"Intel’in 10. nesil Ice Lake işlemcilerini piyasaya sürmesinin ardından çok fazla bir vakit geçmeden 11. nesil Intel Tiger Lake işlemcilerin…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L4",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-09-06","children":"6 Eylül 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L3",null,{"icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"size":14}],"7 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L4",null,{"src":"/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-3MDaJESf.jpg","alt":"Intel 11. Nesil İşlemciler Geliyor: Özellikleri ve Detayları","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L2",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L3",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$5"}}],[],"$L6","$L7"]}]]}]]}],"$L8","$L9","$La"],null,"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$d","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+1e:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1f:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+20:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+21:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+22:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+23:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+6:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L2",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}]]}]
+7:["$","$L2",null,{"href":"/blog/","className":"journal-back","children":[["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:0:props:children:0:props:children:0:props:icon","size":15}]," Tüm yazılara dön"]}]
+8:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L2",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L2","windows-xp-halen-milyonlarca-kisi-tarafindan-kullaniliyor",{"className":"journal-related-card","href":"/blog/windows-xp-halen-milyonlarca-kisi-tarafindan-kullaniliyor/","children":[["$","div",null,{"children":["$","$L4",null,{"src":"/wp-content/uploads/2020/09/windows-xp-halen-milyonlarca-kisi-tarafindan-kullaniliyor-rAmN9Liv.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Windows XP, Halen Milyonlarca Kişi Tarafından Kullanılıyor"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":16}]]}]]}],["$","$L2","huawei-ifa-2020de-kirin-9000i-neden-tanitmadi",{"className":"journal-related-card","href":"/blog/huawei-ifa-2020de-kirin-9000i-neden-tanitmadi/","children":[["$","div",null,{"children":["$","$L4",null,{"src":"/wp-content/uploads/2020/09/huawei-ifa-2020de-kirin-9000i-neden-tanitmadi-2tGe7PtP.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Huawei, IFA 2020’de Kirin 9000’i Neden Tanıtmadı?"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":16}]]}]]}]]}]]}]
+9:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L2",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Intel 11. Nesil İşlemciler Geliyor: Özellikleri ve Detayları\",\"description\":\"Intel’in 10. nesil Ice Lake işlemcilerini piyasaya sürmesinin ardından çok fazla bir vakit geçmeden 11. nesil Intel Tiger Lake işlemcilerin…\",\"datePublished\":\"2020-09-06\",\"dateModified\":\"2020-09-06\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-3MDaJESf.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Intel 11. Nesil İşlemciler Geliyor: Özellikleri ve Detayları | ZEYNART"}],["$","meta","1",{"name":"description","content":"Intel’in 10. nesil Ice Lake işlemcilerini piyasaya sürmesinin ardından çok fazla bir vakit geçmeden 11. nesil Intel Tiger Lake işlemcilerin…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari/"}],["$","meta","4",{"property":"og:title","content":"Intel 11. Nesil İşlemciler Geliyor: Özellikleri ve Detayları | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Intel’in 10. nesil Ice Lake işlemcilerini piyasaya sürmesinin ardından çok fazla bir vakit geçmeden 11. nesil Intel Tiger Lake işlemcilerin…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-3MDaJESf.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-09-06"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Intel 11. Nesil İşlemciler Geliyor: Özellikleri ve Detayları"}],["$","meta","16",{"name":"twitter:description","content":"Intel’in 10. nesil Ice Lake işlemcilerini piyasaya sürmesinin ardından çok fazla bir vakit geçmeden 11. nesil Intel Tiger Lake işlemcilerin…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/09/intel-11-nesil-islemciler-geliyor-ozellikleri-ve-detaylari-3MDaJESf.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1e","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L21",null,{}],["$","main",null,{"id":"main","children":["$","$L1f",null,{"parallelRouterKey":"children","error":"$22","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true}]],"template":["$","$L20",null,{}],"notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L2",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L3",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"size":17}]]}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L2",null,{"href":"/","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L4",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L2","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L2","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L2","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L2","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L2",null,{"href":"/projeler","children":"Projeler"}],["$","$L2",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L2",null,{"href":"/blog","children":"İçgörüler"}],["$","$L2",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L2",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L3",null,{"icon":"$0:data:0:rsc:props:children:0:0:props:children:2:props:children:0:props:children:props:children:1:props:children:1:props:icon","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L2",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L2",null,{"href":"/kvkk","children":"KVKK"}],["$","$L2",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L23",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}]
+1b:null
+18:true
+d:300
+d:C
+17:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+16:"$undefined"
+c:"$undefined"

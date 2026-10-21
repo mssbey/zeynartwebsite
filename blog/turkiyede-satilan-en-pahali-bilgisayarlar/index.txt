@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+2:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+3:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+4:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+5:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+7:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+8:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+9:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+f:I[68027,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default",1]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+:HL["/_next/static/media/6ab0db14f70d8ed6-s.p.13hnt-xgp82zk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+0:{"P":null,"c":["","blog","turkiyede-satilan-en-pahali-bilgisayarlar",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","turkiyede-satilan-en-pahali-bilgisayarlar","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true,"nonce":"$undefined"}]],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L6",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"$undefined","size":17}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L6",null,{"href":"/","onClick":"$undefined","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L8",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L6","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L6","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L6","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L6","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L6",null,{"href":"/projeler","children":"Projeler"}],["$","$L6",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L6",null,{"href":"/blog","children":"İçgörüler"}],["$","$L6",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L6",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"className":"$undefined","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L6",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L6",null,{"href":"/kvkk","children":"KVKK"}],["$","$L6",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L9",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$La","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wXh_UvXRlyat4GYttAIJS"}
+12:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+a:["$","$L5",null,{}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+19:T34b6,<p><iframe src="https://www.youtube.com/embed/bNoTdexcigw?showinfo=0&amp;wmode=transparent" title="Video" loading="lazy" allowfullscreen></iframe><br><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-0-ZwXSHLMw.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Günümüz teknolojisinin sağladığı imkânlardan en üst seviyede yararlanan süper bilgisayarları alabilmek için tonlarca para ödememiz gerekiyor. Tüm dünyada olduğu gibi Türkiye’de de durum böyle. Hatta öyle ki bir ev fiyatına satılan bilgisayarlar bile var.</p>
+<p>Türkiye’de satılan <strong><em>en pahalı bilgisayarları</em></strong>sıraladığımız bu listede sadece oyun için tasarlanmış bilgisayarlardan, aklınıza gelebilecek her türlü medya kolundaki işlerinizi halledebileceğiniz bilgisayarlar yer alıyor. Türkiye’de satılan en pahalı bilgisayarlara, bu bilgisayarların <strong><em>fiyatlarına</em></strong> ve <strong><em>teknik özelliklerine</em></strong> yakından bakıyoruz.</p>
+<p><strong>Türkiye’de satılan en pahalı bilgisayarlar:</strong></p>
+<ul>
+<li>Apple Mac Pro 2020: 442.947,98 TL</li>
+<li>Apple iMac Pro 2020: 123.846,98 TL</li>
+<li>Monster Tulpar T7 V18.3.2: 101.999 TL</li>
+<li>Apple MacBook Pro 2020: 57.948,98 TL</li>
+<li>Microsoft Surface Studio 2: 57.710,73 TL</li>
+<li>ASUS G703GI: 46.548,00 TL</li>
+<li>MSI GT76 Titan DT: 35.391,57 TL</li>
+<li>Casper Excalibur G900: 29.599 TL</li>
+<li>Omen X By HP 15: 28.449,00 TL</li>
+</ul>
+<p><strong>Omen X By HP 15:</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-1-AhsLL9KZ.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Özellikle yüksek oyun performansı ve kusursuz <em>“overclock”</em> işleminin gerçekleştirilebilmesi için geliştirilen Omen X, masaüstü sınıfı grafik kartı performansıyla, oyun oynarken başka platformları kontrol edebileceğiniz klavye üzerinde bulunan 1080p çözünürlüğündeki <strong>ikinci ekranıyla</strong> ve <strong>4K IPS</strong> ana ekranıyla oyun deneyiminizi bir üst seviyeye çıkarmayı amaçlıyor.</p>
+<p><strong>Omen X By HP 15’in teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Core i7-9750H 2,6 GHz 6 Çekirdek, Turbo Boost ile 4,5 GHz</li>
+<li>RAM: 32 GB (2&#215;16 GB) 3200 MHz DDR4</li>
+<li>Ekran Kartı: NVIDIA GeForce RTX 2080 Max-Q 8 GB</li>
+<li>Depolama: 1 TB SSD</li>
+<li>Ekran: 15,6 inç, 3840 x 2160p çözünürlükte 4K IPS ekran</li>
+<li>İşletim Sistemi: Windows 10</li>
+<li>Fiyatı: 28.449,00 TL</li>
+</ul>
+<p><strong>Casper Excalibur G900 (Video):</strong></p>
+<p>Casper’ın oyunculara özel dizüstü bilgisayar serisi Excalibur’un yeni üyesi Excalibur G900 elimizde. Serinin Excalibur G770 ve G850 modellerinden sonra çıtayı daha yukarıya taşıyan yeni G900 laptop, sahip olduğu özellikleriyle taşınabilir bir <strong>oyun makinesi isteyenlere</strong> hitap ediyor. </p>
+<p>Elimizdeki versiyonunda Intel’in daha Nisan ayında tanıttığı 10. nesil i7 işlemcisi bulunan G900, bu sayede bir dizüstü bilgisayardan alabileceğiniz oyun performansını en üst düzeye çıkarıyor. 2,6 GHz temel olmak üzere <strong>Turbo Boost ile 5,0 GHz’e kadar hızlanan</strong> 6 çekirdekli ve 12 iş parçacığına sahip i7-10750H, bir önceki nesil ile arasında ciddi bir fark koyuyor. Oyuncuların anlayacağı dilden söyleyecek olursak; bu işlemciye sahip olduğunuz bir G900 ile en az 5 yıl boyunca; en yeni oyunları, en yüksek ayarlarda oynamanız mümkün.</p>
+<p><strong>MSI GT76 Titan DT</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-2-ivwF4GO8.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Grafik ayarlarını bir birim bile düşürmeden oyun oynayabileceğiniz <strong>MSI GT76 Titan</strong>, RGB ışıklandırmalı mekanik klavyesiyle, 10. nesil Intel işlemcisi ve NVIDIA 2000 serisi ekran kartıyla mükemmel bir oyun deneyimi sunmayı amaçlıyor. MSI GT76, sunduğu yüksek performanslı oyun deneyiminin yanı sıra eşsiz <strong>Cooler Boost Titan</strong> soğutma sistemiyle de darboğazları engelleyerek ve daha akıcı bir deneyim yaşamanızı sağlıyor.</p>
+<p>MSI GT76 <strong>oyun odaklı</strong> bir dizüstü bilgisayar olsa da güçlü işlemcisi, 4K ekranı ve güçlü ekran kartıyla birlikte ileri düzey 4K video düzenleme işlemlerinizi de rahatlıkla yapabiliyor.</p>
+<p><strong>MSI GT76 Titan DT’nin teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Core i9-10900K 3,7 GHz 10 Çekirdek, Turbo Boost ile 5,3 GHz</li>
+<li>RAM: 32 GB (2&#215;16 GB) 2666 Mhz DDR4</li>
+<li>Ekran Kartı: NVIDIA GeForce RTX 2080 Super 8 GB</li>
+<li>Depolama: Super Raid 4-1TB NVMe PCIe Gen3x4 SSD + 1 TB HDD</li>
+<li>Ekran: 17,3 inç, 3840 x 2160p çözünürlükte UHD 4K Thin Bezel ekran</li>
+<li>İşletim Sistemi: Windows 10 Pro</li>
+<li>Fiyatı: 35.391,57 TL</li>
+</ul>
+<p><strong>ASUS G703GI</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-3-hZ3VjSv5.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Overclock yapmaya uygun ekran kartıyla ve yüksek nesil işlemcisiyle tam bir oyun canavarı olarak nitelendirilen <strong>ASUS G703GI</strong>, AAA oyunları ultra grafik ayarlarında en ufak performans kaybı yaşamadan oynamanızı sağlıyor. Kişiselleştirilebilir görsel tasarımı ve yeni nesil depolama çözümleriyle ASUS G703GI, kullanıcılara hem şık hem de oldukça hızlı ve işlevsel bir <strong>oyun bilgisayarı</strong> sunmayı amaçlıyor.</p>
+<p><strong>ASUS G703GI’ın teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Core i9-8950HK 2,9 GHz 6 Çekirdek, Turbo Boost ile 4,8 GHz</li>
+<li>RAM: 32 GB (2&#215;16 GB) 2666 MHz DDR4</li>
+<li>Ekran Kartı: NVIDIA GeForce GTX 1080 8 GB</li>
+<li>Depolama: 512 GB M2 sata SSD + 2 TB HDD</li>
+<li>Ekran: 17,3 inç 1920 x 1080p çözünürlükte Full HD ekran</li>
+<li>İşletim Sistemi: Windows 10</li>
+<li>Fiyatı: 46.548,00 TL</li>
+</ul>
+<p><strong>Microsoft Surface Studio 2</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-4-mrv2V1XE.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Grafik tasarım ve video, fotoğraf düzenleme üzerine tasarlanmış bu bilgisayar, hepsi bir arada (all-in-one) bilgisayarlar dünyasında Apple iMac alternatifi olarak karşımıza çıkıyor. Özellikle dokunmatik ekranıyla beraber <strong>çizim</strong> ve <strong>grafik tasarım</strong> üzerine yoğunlaşılan <strong>Microsoft Surface 2</strong>’nin 13,5 milyon piksel gerçek renk barındıran ekranıyla görsele dayalı bütün tasarımlarınızı rahatlıkla gerçekleştirebilirsiniz. Fakat görsel düzenleme üzerine yoğunlaşılmasına rağmen Microsoft Studio 2, orta segment ekran kartı ve işlemcisiyle akıcı bir oyun deneyimi de sunabiliyor.</p>
+<p><strong>Microsoft Surface Studio 2’nin teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Core i7-7820HQ 2,9 GHz, Turbo Boost ile 3,9 GHz</li>
+<li>RAM: 32 GB 1066 MHz DDR4</li>
+<li>Ekran Kartı: NVIDIA GeForce GTX 1070 8 GB</li>
+<li>Depolama: 2 TB SSD</li>
+<li>Ekran: 30 inç, 4500 x 3000p çözünürlükte 4K UHD dokunmatik ekran</li>
+<li>İşletim Sistemi: Windows 10 Pro</li>
+<li>Fiyatı: 57.710,73 TL</li>
+</ul>
+<p><strong>Apple MacBook Pro 2020</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-5-P2zH1gEx.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Hepimizin bildiği <strong>MacBook Pro</strong> serisi bu sene 2020 modelleriyle yoluna devam ediyor. Dâhili bir ekran kartı yerine AMD Radeon serisi bir ekran kartıyla güçlendirilen MacBook Pro’nun bu en pahalı sürümüyle yapamayacağınız işlem yok desek doğru olur. 4K video düzenlemeden, müzik prodüksiyonuna ve oyunculuğa kadar birçok işleminizi sıkıntısız gerçekleştirebileceğiniz MacBook Pro kullanıcılarına dizüstü bilgisayar dünyasının <strong>en üst düzey</strong> deneyimlerini sunmayı amaçlıyor.</p>
+<p><strong>Apple MacBook Pro 2020’nin teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Core i9-9880H 2,4 GHz 8 Çekirdek, Turbo Boost ile 5,0 GHz</li>
+<li>RAM: 64 GB 2666 MHz DDR4</li>
+<li>Ekran Kartı: AMD Radeon Pro 5600M 8 GB HBM2</li>
+<li>Depolama: 8 TB SSD</li>
+<li>Ekran: 16 inç, 3840 x 2160p çözünürlükte 4K UHD Retina Display</li>
+<li>İşletim Sistemi: macOS</li>
+<li>Fiyatı: 57.948,98 TL</li>
+</ul>
+<p><strong>Monster Tulpar T7 V18.3.2</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-6-iPAEBvjl.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Evet geldik son 3’e, listemizin son 3 bilgisayarına altı basamaklı fiyatı olan listenin <em>en pahalı oyun bilgisayarı </em><strong>Monster Tulpar T7 V18.3.2</strong> ile başlıyoruz. Son zamanlarda pazarda MSI ve ASUS markalarının yanında hakimiyet sağlamaya başlayan Monster, isminde olduğu canavar olarak nitelendirilebilecek oyun bilgisayarları üretmesiyle ünlü bir marka.</p>
+<p>Dizüstü bilgisayar dünyasının sunduğu en yüksek teknolojilerle donatılan Tulpar T7 V18.3.2’de kullanıcıları gerçekten yaşayabilecekleri en üst düzey oyun deneyimleri bekliyor. <em>Gerçek zamanlı ışın izleme (Ray Tracing)</em> teknolojisine sahip RTX 2080 ekran kartıyla Monster Tulpar T7, bir dizüstü bilgisayarda yaşanabilecek en üst düzey oyun deneyiminin yanı sıra 4K video düzenleme dâhil her türlü işlemi sıkıntısız gerçekleştirebilecek bir bilgisayar olarak karşımıza çıkıyor.</p>
+<p><strong>Monster Tulpar T7 V18.3.2’nin teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Core i9-9900K 3,6 GHz 8 Çekirdek, Turbo Boost ile 5,0 GHz</li>
+<li>RAM: 64 GB (4&#215;16 GB) 3200 MHz DDR4</li>
+<li>Ekran Kartı: NVIDIA GeForce RTX 2080 DX12 8 GB</li>
+<li>Depolama: 19 TB SSD (4 TB PCIe 3.0/ 15 TB SATA 3-7 mm)</li>
+<li>Ekran: 17,3 inç, 3840 x 2160p çözünürlükte 4K UHD ekran</li>
+<li>İşletim Sistemi: Windows 10 Pro</li>
+<li>Fiyatı: 101.999,00 TL</li>
+</ul>
+<p><strong>Apple iMac Pro 2020</strong></p>
+<p><img src="/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-7-pSCY27Ot.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Listemizin ikinci sırasındaysa <strong>Apple</strong>’ın meşhur <em>all-in-one</em>bilgisayar serisi olan <strong>iMac Pro</strong>’nun yeni modeli karşılıyor. Masaüstü ve all-in-one bilgisayar dünyasında bir efsane olan iMac Pro ile gerçekten de yapamayacağınız bir işlem yok. iMac Pro, aklınıza gelebilecek her türlü video, fotoğraf düzenleme, film-dizi kurgulama, müzik, grafik tasarım ve sayamayacağımız kadar çok sektördeki <strong>sayısız işlemi</strong> tek bir bilgisayarda halledebildiğiniz bir model.</p>
+<p>Özellikle<strong> profesyonel kullanım</strong> için tasarlanmış olan Apple iMac Pro, sizi asla yarı yolda bırakmayacak bilgisayarlardan biri.</p>
+<p><strong>Apple iMac Pro 2020’nin teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Xeon W 2,3 GHz 18 Çekirdek, Turbo Boost ile 4,3 GHz</li>
+<li>RAM: 256 GB 2666 Mhz DDR4 ECC</li>
+<li>Ekran Kartı: AMD Radeon Pro Vega 64X 16 GB HBM2</li>
+<li>Depolama: 4 TB SSD</li>
+<li>Ekran: 27 inç, 5K Retina Display</li>
+<li>İşletim Sistemi: macOS</li>
+<li>Fiyatı: 123.846,98 TL</li>
+</ul>
+<p><strong>Apple Mac Pro 2020</strong></p>
+<p>Listemizin birinci sırasında dile bile kolay olmayan neredeyse 443 bin liralık fiyatıyla 2020 model<strong> Mac Pro</strong> yer alıyor. Bu bilgisayar hakkında ne desek az, masaüstü bilgisayar dünyasının erişebildiği <strong>en yüksek teknolojilere</strong> sahip olan Mac Pro’nun en pahalı sürümü, fiyatı kadar astronomik özelliklere ev sahipliği yapıyor. Mac Pro ile yapabilecekleriniz ise <strong>sınırsız </strong>desek yanlış olmaz.</p>
+<p>Bilgisayar dünyasının bugün bize sunduğu her türlü imkândan yararlanan bu bilgisayarla, profesyonel alanda istediğiniz her şeyi yapabilirsiniz. Mac Pro’nun en pahalı versiyonunun fiyatı kadar ağızları açık bırakan özelliklerine gelin bir göz atalım.</p>
+<p><strong>Apple Mac Pro 2020’nin teknik özellikleri:</strong></p>
+<ul>
+<li>İşlemci: Intel Xeon W 2,5 GHz 28 Çekirdek, Turbo Boost ile 4,4 GHz</li>
+<li>RAM: 1,5 TB (12&#215;128 GB) DDR4 ECC</li>
+<li>Ekran Kartı: Her biri 64 GB HBM2 belleğe sahip iki adet AMD Radeon Pro Vega II Duo + Apple Afterburner kart.</li>
+<li>Depolama: 8 TB SSD</li>
+<li>Ekran: Dâhili ekran yok.</li>
+<li>İşletim Sistemi: macOS</li>
+<li>Fiyatı: 442.947,98 TL</li>
+</ul>
+<p><strong><em>Türkiye’de satılan en pahalı bilgisayarlar </em></strong>listemizin sonuna geldik. Bu kadar yüksek meblağdaki bilgisayarların alınıp alınmayacağı ise tamamen kişinin isteklerine ve insiyatifine kalmış durumda. Her ne kadar listedeki bazı bilgisayarların araba ve ev fiyatlarına sahip olmasının sebebi döviz kuruna bağlı olsa da yurt dışında da bu bilgisayarlara çok yüksek fiyatlar ödenebiliyor.</p>
+<p>Listemizdeki bilgisayarların bu kadar yüksek fiyatlı olmalarının asıl sebebi döviz kurunun yanı sıra uygulanan vergilerin oranları da göz önünde bulundurulabilir. Sizler de oluşturduğumuz listedeki <strong><em>en pahalı bilgisayarlar </em></strong>hakkındaki düşüncelerinizi yorumlar kısmında belirtebilirsiniz.</p>11:[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L6",null,{"className":"journal-back","href":"/blog/","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"$undefined","size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Türkiye’de Satılan En Pahalı Bilgisayarlar"}],["$","p",null,{"className":"journal-article-lead","children":"Günümüz teknolojisinin sağladığı imkânlardan en üst seviyede yararlanan süper bilgisayarları alabilmek için tonlarca para ödememiz gerekiyor…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L8",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-07-06","children":"6 Temmuz 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"className":"$undefined","size":14}],"7 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L8",null,{"src":"/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-5x8VbSsF.jpg","alt":"Türkiye’de Satılan En Pahalı Bilgisayarlar","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L6",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$19"}}],[],"$L1a","$L1b"]}]]}]]}],"$L1c","$L1d","$L1e"]
+1a:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L6",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}]
+1b:["$","$L6",null,{"href":"/blog/","className":"journal-back","children":[["$","$L7",null,{"ref":"$undefined","icon":"$11:0:props:children:0:props:children:0:props:children:0:props:icon","className":"$undefined","size":15}]," Tüm yazılara dön"]}]
+1c:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L6",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L6","google-veri-ihlali-nedeniyle-antutuyu-engelledi",{"className":"journal-related-card","href":"/blog/google-veri-ihlali-nedeniyle-antutuyu-engelledi/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/07/google-veri-ihlali-nedeniyle-antutuyu-engelledi-vnVUieES.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Google, Veri İhlali Nedeniyle AnTuTu’yu Engelledi"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}],["$","$L6","e-bebekin-hacklendigi-iddia-ediliyor",{"className":"journal-related-card","href":"/blog/e-bebekin-hacklendigi-iddia-ediliyor/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/07/e-bebekin-hacklendigi-iddia-ediliyor-UeSpArRc.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"E-Bebek’in Hacklendiği İddia Ediliyor"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]]}]]}]
+1f:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1d:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L6",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+1e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Türkiye’de Satılan En Pahalı Bilgisayarlar\",\"description\":\"Günümüz teknolojisinin sağladığı imkânlardan en üst seviyede yararlanan süper bilgisayarları alabilmek için tonlarca para ödememiz gerekiyor…\",\"datePublished\":\"2020-07-06\",\"dateModified\":\"2020-07-06\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/turkiyede-satilan-en-pahali-bilgisayarlar/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-5x8VbSsF.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]
+14:null
+18:[["$","title","0",{"children":"Türkiye’de Satılan En Pahalı Bilgisayarlar | ZEYNART"}],["$","meta","1",{"name":"description","content":"Günümüz teknolojisinin sağladığı imkânlardan en üst seviyede yararlanan süper bilgisayarları alabilmek için tonlarca para ödememiz gerekiyor…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/turkiyede-satilan-en-pahali-bilgisayarlar/"}],["$","meta","4",{"property":"og:title","content":"Türkiye’de Satılan En Pahalı Bilgisayarlar | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Günümüz teknolojisinin sağladığı imkânlardan en üst seviyede yararlanan süper bilgisayarları alabilmek için tonlarca para ödememiz gerekiyor…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/turkiyede-satilan-en-pahali-bilgisayarlar/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-5x8VbSsF.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-07-06"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Türkiye’de Satılan En Pahalı Bilgisayarlar"}],["$","meta","16",{"name":"twitter:description","content":"Günümüz teknolojisinin sağladığı imkânlardan en üst seviyede yararlanan süper bilgisayarları alabilmek için tonlarca para ödememiz gerekiyor…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/07/turkiyede-satilan-en-pahali-bilgisayarlar-5x8VbSsF.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1f","19",{}]]

@@ -1,0 +1,17 @@
+# ZEYNART
+
+> Strateji, tasarım ve yazılım geliştirme hizmetleri sunan dijital teknoloji ajansı. Site dili Türkçedir.
+
+## Hizmetler
+- [Web Tasarım](https://zeynart.com/hizmetler/web-tasarim): Siz hayal edin, Zeynart tasarlasın.
+- [Grafik Tasarım](https://zeynart.com/hizmetler/grafik-tasarim): Markanızın benzersiz parmak izini tasarlıyoruz.
+- [Web Yazılım](https://zeynart.com/hizmetler/web-yazilim): İş süreçlerinize uyum sağlayan özel yazılımlar.
+- [Mobil Uygulama](https://zeynart.com/hizmetler/mobil-uygulama): iOS ve Android için işinize özel deneyimler.
+- [Hosting & Sunucu](https://zeynart.com/hizmetler/hosting): Hız, güvenlik ve süreklilik için güçlü altyapı.
+- [E-Ticaret](https://zeynart.com/hizmetler/e-ticaret): Ürünlerinizi müşterilerinizle buluşturun.
+
+## Şirket
+- [Hakkımızda](https://zeynart.com/hakkimizda)
+- [İletişim](https://zeynart.com/iletisim)
+- [Blog](https://zeynart.com/blog)
+- [Projeler](https://zeynart.com/projeler): Özgün konsept çalışmalar; gerçek müşteri projesi veya doğrulanmış ticari sonuç olarak sunulmaz.

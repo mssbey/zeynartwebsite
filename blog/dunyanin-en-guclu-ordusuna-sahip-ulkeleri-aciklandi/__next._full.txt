@@ -1,0 +1,220 @@
+1:"$Sreact.fragment"
+2:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+3:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+4:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+5:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+7:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+8:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+9:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+f:I[68027,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default",1]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+:HL["/_next/static/media/6ab0db14f70d8ed6-s.p.13hnt-xgp82zk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+0:{"P":null,"c":["","blog","dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true,"nonce":"$undefined"}]],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L6",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"$undefined","size":17}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L6",null,{"href":"/","onClick":"$undefined","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L8",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L6","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L6","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L6","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L6","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L6",null,{"href":"/projeler","children":"Projeler"}],["$","$L6",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L6",null,{"href":"/blog","children":"İçgörüler"}],["$","$L6",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L6",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"className":"$undefined","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L6",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L6",null,{"href":"/kvkk","children":"KVKK"}],["$","$L6",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L9",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,"$La"]}],{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wXh_UvXRlyat4GYttAIJS"}
+12:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+a:["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+19:T22e4,<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-0-vaRpNJBd.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Ülkelerin gücünü ekonomi, nüfus, politika gibi pek çok farklı değişken belirliyor olsa da ‘güç’ denildiğinde akla ilk olarak <strong>askeri güç</strong> geliyor. Business Insider Hindistan da buradan yola çıkarak merak edenler için <strong>dünyanın en güçlü 20 ordusunu</strong> sıraladı.</p>
+<p>Tıpkı ülkelerin gücünü belirlemede olduğu gibi ordunun gücünü belirleme konusunda da pek çok farklı değişken bulunuyor ancak Business Insider Hindistan, oluşturduğu listeyi hazırlarken <em>bütçe, aktif personel sayısı, tank, uçak ve denizaltı</em> sayısını göz önünde bulundurmuş durumda.</p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-1-UrVm3vmx.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Listenin zirvesine baktığımızda dünyanın süper güçleri olarak lanse edilen <strong>ABD, Rusya ve Çin</strong>’in ilk üç sırada yer aldığını görüyoruz. ABD’nin sınır komşusu olan Kanada, bir ada ülkesi olan Endonezya ve Almanya, ise listenin son üç sırasında yer alıyor. Bulunduğu bölgenin en büyük askeri gücü konumunda olan <strong>Türkiye ise listenin 10. sırasında yer alıyor</strong>.</p>
+<p><strong>Dünyanın en güçlü 20 ordusu</strong></p>
+<p><strong>20. Kanada</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-2-JLBjtkpz.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 15,7 milyar dolar</li>
+<li>Aktif personel sayısı: 92.000</li>
+<li>Tank sayısı: 181</li>
+<li>Uçak sayısı: 420</li>
+<li>Denizaltı sayısı: 4</li>
+</ul>
+<p><strong>19. Endonezya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-3-5NGV3966.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 6,9 milyar dolar</li>
+<li>Aktif personel sayısı: 476.000</li>
+<li>Tank sayısı: 468</li>
+<li>Uçak sayısı: 405</li>
+<li>Denizaltı sayısı: 2</li>
+</ul>
+<p><strong>18. Almanya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-4-f1lslJhi.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 40,2 milyar dolar</li>
+<li>Aktif personel sayısı: 179.046</li>
+<li>Tank sayısı: 408</li>
+<li>Uçak sayısı: 663</li>
+<li>Denizaltı sayısı: 4</li>
+</ul>
+<p><strong>17. Polonya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-5-Glv4SZP1.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 9,4 milyar dolar</li>
+<li>Aktif personel sayısı: 120.000</li>
+<li>Tank sayısı: 1009</li>
+<li>Uçak sayısı: 467</li>
+<li>Denizaltı sayısı: 5</li>
+</ul>
+<p><strong>16. Tayland</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-6-m8PAslvM.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 5,39 milyar dolar</li>
+<li>Aktif personel sayısı: 306.000</li>
+<li>Tank sayısı: 722</li>
+<li>Uçak sayısı: 573</li>
+<li>Denizaltı sayısı: 0</li>
+</ul>
+<p><strong>15. Avustralya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-7-Tdhlli77.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 26,1 milyar dolar</li>
+<li>Aktif personel sayısı: 58.000</li>
+<li>Tank sayısı: 59</li>
+<li>Uçak sayısı: 408</li>
+<li>Denizaltı sayısı: 6</li>
+</ul>
+<p><strong>14. İsrail</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-8-nfNXrcEK.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 17 milyar dolar</li>
+<li>Aktif personel sayısı: 160.000</li>
+<li>Tank sayısı: 4170</li>
+<li>Uçak sayısı: 684</li>
+<li>Denizaltı sayısı: 5</li>
+</ul>
+<p><strong>13. Tayvan</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-9-qfjVbYkt.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 10,7 milyar dolar</li>
+<li>Aktif personel sayısı: 290.000</li>
+<li>Tank sayısı: 2005</li>
+<li>Uçak sayısı: 804</li>
+<li>Denizaltı sayısı: 4</li>
+</ul>
+<p><strong>12. Mısır</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-10-gUgSj96h.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 4,4 milyar dolar</li>
+<li>Aktif personel sayısı: 468.500</li>
+<li>Tank sayısı: 4624</li>
+<li>Uçak sayısı: 1107</li>
+<li>Denizaltı sayısı: 4</li>
+</ul>
+<p><strong>11. Pakistan</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-11-Qafizuh9.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 7 milyar dolar</li>
+<li>Aktif personel sayısı: 617.000</li>
+<li>Tank sayısı: 2924</li>
+<li>Uçak sayısı: 914</li>
+<li>Denizaltı sayısı: 8</li>
+</ul>
+<p><strong><strong>10. Türkiye </strong></strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-12-geNCc63r.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li><strong>Bütçe: 18,2 milyar dolar</strong></li>
+<li><strong>Aktif personel sayısı: 410.500</strong></li>
+<li><strong>Tank sayısı: 3778</strong></li>
+<li><strong>Uçak sayısı: 1020</strong></li>
+<li><strong>Denizaltı sayısı: 13</strong></li>
+</ul>
+<p><strong>9. Birleşik Krallık</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-13-vv7fyS8C.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe:60,5 milyar dolar</li>
+<li>Aktif personel sayısı: 146.980</li>
+<li>Tank sayısı: 407</li>
+<li>Uçak sayısı: 936</li>
+<li>Denizaltı sayısı: 10</li>
+</ul>
+<p><strong>8. İtalya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-14-HvBG478Z.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 34 milyar dolar</li>
+<li>Aktif personel sayısı: 320.000</li>
+<li>Tank sayısı: 586</li>
+<li>Uçak sayısı: 760</li>
+<li>Denizaltı sayısı: 6</li>
+</ul>
+<p><strong>7. Güney Kore</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-15-6rhtj6tF.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 62,3 milyar dolar</li>
+<li>Aktif personel sayısı: 624.465</li>
+<li>Tank sayısı: 2381</li>
+<li>Uçak sayısı: 1412</li>
+<li>Denizaltı sayısı: 13</li>
+</ul>
+<p><strong>6. Fransa</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-16-w1SnxwkG.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 62,3 milyar dolar</li>
+<li>Aktif personel sayısı: 202.761</li>
+<li>Tank sayısı: 423</li>
+<li>Uçak sayısı: 1264</li>
+<li>Denizaltı sayısı: 10</li>
+</ul>
+<p><strong>5. Hindistan</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-17-IFf4v3rK.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 50 milyar dolar</li>
+<li>Aktif personel sayısı: 1.325.000</li>
+<li>Tank sayısı: 6464</li>
+<li>Uçak sayısı: 1905</li>
+<li>Denizaltı sayısı: 15</li>
+</ul>
+<p><strong>4. Japonya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-18-PQwDgkYQ.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 41,6 milyar dolar</li>
+<li>Aktif personel sayısı: 247.173</li>
+<li>Tank sayısı: 678</li>
+<li>Uçak sayısı: 1613</li>
+<li>Denizaltı sayısı: 16</li>
+</ul>
+<p><strong>3. Çin</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-19-BzTkm4Dz.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 216 milyar dolar</li>
+<li>Aktif personel sayısı: 2.333.000</li>
+<li>Tank sayısı: 9150</li>
+<li>Uçak sayısı: 2860</li>
+<li>Denizaltı sayısı: 67</li>
+</ul>
+<p><strong>2. Rusya</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-20-CY5iGSkm.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 84,5 milyar dolar</li>
+<li>Aktif personel sayısı: 766.055</li>
+<li>Tank sayısı: 15.398</li>
+<li>Uçak sayısı: 3.429</li>
+<li>Denizaltı sayısı: 55</li>
+</ul>
+<p><strong>1. ABD</strong></p>
+<p><img src="/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-21-YTTJHYX9.jpg" alt="" loading="lazy" decoding="async"></p>
+<ul>
+<li>Bütçe: 601 milyar dolar</li>
+<li>Aktif personel sayısı: 1.400.000</li>
+<li>Tank sayısı: 8.848</li>
+<li>Uçak sayısı: 13.892</li>
+<li>Denizaltı sayısı: 72</li>
+</ul>11:[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L6",null,{"className":"journal-back","href":"/blog/","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"$undefined","size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Dünyanın En Güçlü Ordusuna Sahip Ülkeleri Açıklandı"}],["$","p",null,{"className":"journal-article-lead","children":"Ülkelerin gücünü ekonomi, nüfus, politika gibi pek çok farklı değişken belirliyor olsa da ‘güç’ denildiğinde akla ilk olarak askeri güç geliyor…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L8",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-09-28","children":"28 Eylül 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"className":"$undefined","size":14}],"3 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L8",null,{"src":"/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-jaqSWKNq.jpg","alt":"Dünyanın En Güçlü Ordusuna Sahip Ülkeleri Açıklandı","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L6",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$19"}}],[],"$L1a","$L1b"]}]]}]]}],"$L1c","$L1d","$L1e"]
+1a:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L6",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}]
+1b:["$","$L6",null,{"href":"/blog/","className":"journal-back","children":[["$","$L7",null,{"ref":"$undefined","icon":"$11:0:props:children:0:props:children:0:props:children:0:props:icon","className":"$undefined","size":15}]," Tüm yazılara dön"]}]
+1c:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L6",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L6","monster-notebooktan-avrupa-cikarmasi",{"className":"journal-related-card","href":"/blog/monster-notebooktan-avrupa-cikarmasi/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/09/monster-notebooktan-avrupa-cikarmasi-Jsx2gTBN.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Monster Notebook’tan Avrupa çıkarması"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}],["$","$L6","xiaomiden-etkileyici-ozellikleri-olan-yeni-televizyonlar",{"className":"journal-related-card","href":"/blog/xiaomiden-etkileyici-ozellikleri-olan-yeni-televizyonlar/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/09/xiaomiden-etkileyici-ozellikleri-olan-yeni-televizyonlar-uP4NjjOt.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Xiaomi’den Etkileyici Özellikleri Olan Yeni Televizyonlar"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]]}]]}]
+1d:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L6",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+1e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Dünyanın En Güçlü Ordusuna Sahip Ülkeleri Açıklandı\",\"description\":\"Ülkelerin gücünü ekonomi, nüfus, politika gibi pek çok farklı değişken belirliyor olsa da ‘güç’ denildiğinde akla ilk olarak askeri güç geliyor…\",\"datePublished\":\"2020-09-28\",\"dateModified\":\"2020-09-28\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-jaqSWKNq.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]
+1f:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+14:null
+18:[["$","title","0",{"children":"Dünyanın En Güçlü Ordusuna Sahip Ülkeleri Açıklandı | ZEYNART"}],["$","meta","1",{"name":"description","content":"Ülkelerin gücünü ekonomi, nüfus, politika gibi pek çok farklı değişken belirliyor olsa da ‘güç’ denildiğinde akla ilk olarak askeri güç geliyor…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi/"}],["$","meta","4",{"property":"og:title","content":"Dünyanın En Güçlü Ordusuna Sahip Ülkeleri Açıklandı | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Ülkelerin gücünü ekonomi, nüfus, politika gibi pek çok farklı değişken belirliyor olsa da ‘güç’ denildiğinde akla ilk olarak askeri güç geliyor…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-jaqSWKNq.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-09-28"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Dünyanın En Güçlü Ordusuna Sahip Ülkeleri Açıklandı"}],["$","meta","16",{"name":"twitter:description","content":"Ülkelerin gücünü ekonomi, nüfus, politika gibi pek çok farklı değişken belirliyor olsa da ‘güç’ denildiğinde akla ilk olarak askeri güç geliyor…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/09/dunyanin-en-guclu-ordusuna-sahip-ulkeleri-aciklandi-jaqSWKNq.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1f","19",{}]]

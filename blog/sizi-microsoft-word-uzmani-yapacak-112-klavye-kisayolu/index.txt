@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+2:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+3:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+4:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+5:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+7:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+8:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+9:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+f:I[68027,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default",1]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+:HL["/_next/static/media/6ab0db14f70d8ed6-s.p.13hnt-xgp82zk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+0:{"P":null,"c":["","blog","sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true,"nonce":"$undefined"}]],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L6",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"$undefined","size":17}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L6",null,{"href":"/","onClick":"$undefined","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L8",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L6","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L6","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L6","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L6","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L6",null,{"href":"/projeler","children":"Projeler"}],["$","$L6",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L6",null,{"href":"/blog","children":"İçgörüler"}],["$","$L6",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L6",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"className":"$undefined","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L6",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L6",null,{"href":"/kvkk","children":"KVKK"}],["$","$L6",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L9",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wXh_UvXRlyat4GYttAIJS"}
+12:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+a:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+19:T3cd0,<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-0-UWMaXKDp.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Microsoft Office programları arasında neredeyse tüm kullanıcılar tarafından sevilen ve en çok kullanılan programlardan biri olan <em>Word, </em>1980’li yılların sonundan beri hayatımızda. Microsoft, <strong>Word programının her yeni sürümünde </strong>kullanıcılara yeni ve hayatı kolaylaştıran pek çok özellik sunuyor.</p>
+<p>Tüm bu özelliklerin yanı sıra neredeyse <strong>her Microsoft Word sürümünde kullanabileceğiniz </strong>pek çok kullanışlı kısayol var. Bu kısayollar sayesinde uzun uğraşlar sonucu yaptığınız işlemleri uygulamak için birkaç tuşa basmanız yeterli olacak. <em>Microsoft Word </em>programını en verimli şekilde kullanmak isteyenlerin mutlaka bilmesi gereken 112 kısayolu listeledik.</p>
+<p><strong>Word kısayolları:</strong></p>
+<ul>
+<li>Genel kullanım kısayolları</li>
+<li>Belgede hareket kısayolları</li>
+<li>Metin seçme kısayolları</li>
+<li>Metin düzenleme kısayolları</li>
+<li>Karakter biçimlendirme kısayolları</li>
+<li>Paragraf biçimlendirme kısayolları</li>
+<li>Simge ekleme kısayolları</li>
+<li>Anahat düzenleme kısayolları</li>
+<li>Tablo kısayolları</li>
+</ul>
+<p><strong>Genel kullanım kısayolları:</strong></p>
+<ul>
+<li><strong>Ctrl + N: </strong>Yeni belge oluşturma</li>
+<li><strong>Ctrl + O:</strong> Mevcut belge açma</li>
+<li><strong>Ctrl + S: </strong>Açık olan belgeyi kaydetme</li>
+<li><strong>F12:</strong> Açık olan belgeyi farklı kaydetme</li>
+<li><strong>Ctrl + W: </strong>Belge kapatma</li>
+<li><strong>Ctrl + Z: </strong>Son işlemi geri alma</li>
+<li><strong>Ctrl + Y: </strong>Son işlemi yeniden yapma</li>
+<li><strong>Alt + Ctrl + S: </strong>Açık olan pencereyi bölme</li>
+<li><strong>Ctrl + Alt + V: </strong>Yazdırma görünümü açma</li>
+<li><strong>Ctrl + Alt + O: </strong>Anahtar görünümü açma</li>
+<li><strong>Ctrl + Alt + N: </strong>Taslak görünümü açma</li>
+<li><strong>Ctrl + F2: </strong>Baskı önizleme görüntüleme</li>
+<li><strong>F1: </strong>Yardım ekranı açma</li>
+<li><strong>Alt + Q: </strong>“Bana ne istediğini söyle” kutusunu açma </li>
+<li><strong>F1: </strong>Yardım ekranını açma</li>
+<li><strong>Ctrl + F: </strong>Belge içinde kelime arama kutusunu açma</li>
+<li><strong>F7: </strong>Yazım bilgisi denetim ekranını açma</li>
+<li><strong>Shift + F7: </strong>Eşanlamlılar sözlüğünü açma</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-1-JKHAv2ly.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Genel kullanım kısayolları, tüm Microsoft Word kullanıcılarının <strong>bilmesi gereken </strong>kısayollardır. Oluşturduğunuz metin ister uzun ister kısa olsun, buradaki kısayollar işinizi oldukça kolaylaştıracaktır. Bazı kısayollar kullanmaya başladıktan bir süre sonra reflekse dönüşecektir.</p>
+<p><strong>Belgede hareket kısayolları:</strong></p>
+<ul>
+<li><strong>Sol / Sağ Ok: </strong>İmleci hareket ettirme</li>
+<li><strong>Ctrl + Sol / Sağ Ok: </strong>İmleci kelime üzerinden taşıma</li>
+<li><strong>Yukarı / Aşağı Ok: </strong>İmleci satırlar arası hareket ettirme</li>
+<li><strong>Ctrl + Yukarı / Aşağı Ok: </strong>İmleci paragraflar arası hareket ettirme</li>
+<li><strong>End: </strong>İmleci satırın sonuna taşıma</li>
+<li><strong>Ctrl + End: </strong>İmleci belgenin sonuna taşıma</li>
+<li><strong>Home: </strong>İmleci satırın başına taşıma</li>
+<li><strong>Ctrl + Home: </strong>İmleci belgenin başına taşıma</li>
+<li><strong>Page Up / Page Down: </strong>Birden fazla sayfa arasında geçiş yapma</li>
+<li><strong>Ctrl + Page Up / Page Down: </strong>Arama sonrası önceki ya da sonraki kelimeyi bulma</li>
+<li><strong>Alt + Ctrl + Page Up / Page Down: </strong>İmleci açık pencerenin sonuna ya da başına taşıma</li>
+<li><strong>F5: </strong>Bul kutusunu açma</li>
+<li><strong>Shift + F5: </strong>İmleci son düzenlenen noktaya taşıma</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-2-FJvI42dH.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Belgede hareket kısayolları arasında gördüğünüz kelimelerden bazıları klavyenizde <strong>kısaltılmış olarak </strong>yazıyor olabilir. Aynı şekilde bazı kısayollarda gördüğünüz tuşların işlevlerini yerine getirmeleri için önce <em>Fn </em>tuşuna basmanız ve basılı tutmanız gerekebilir. </p>
+<p><strong>Metin seçme kısayolları:</strong></p>
+<ul>
+<li><strong>Shift + Sol / Sağ Ok: </strong>Seçiminizi bir karakter sola ya da sağa genişletme</li>
+<li><strong>Ctrl + Shift + Sol / Sağ Ok: </strong>Seçiminizi bir kelime sola ya da sağa genişletme</li>
+<li><strong>Shift + Yukarı / Aşağı Ok: </strong>Seçiminizi bir satır yukarı ya da aşağı genişletme</li>
+<li><strong>Ctrl + Shift + Yukarı / Aşağı Ok: </strong>Seçiminizi bir paragrafın başına ya da sonuna genişletme</li>
+<li><strong>Shift + End: </strong>Seçiminizi satırın sonuna genişletme</li>
+<li><strong>Shift + Home: </strong>Seçiminizi satırın başına genişletme</li>
+<li><strong>Ctrl + Shift + Home / End: </strong>Seçiminizi belgenin başına ya da sonuna genişletme</li>
+<li><strong>Tab + Page Up / Page Down: </strong>Seçiminizi bir ekran aşağı ya da yukarı genişletme</li>
+<li><strong>Ctrl + A: </strong>Belgenin tümünü seçme</li>
+<li><strong>F8: </strong>Seçiminizi genişletme</li>
+<li><strong>Ctrl + Shift + F8: </strong>Seçiminizi sütunlar arası genişletme</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-3-NXRNbkVu.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Metin seçme kısayolları, özellikle elinize gelen hazır metinleri düzenlemek için kullanabileceğiniz hayat kurtaran kısayollardandır. Var olan bir metindeki yazıları <strong>farklı bir metne </strong>kopyalamak gibi işlemler için mutlaka bu kısayolları bilmeniz gerekiyor.</p>
+<p><strong>Metin düzenleme kısayolları:</strong></p>
+<ul>
+<li><strong>Backspace: </strong>İmlecin solundaki karakteri silme</li>
+<li><strong>Ctrl + Backspace:  </strong>İmlecin solundaki kelimeyi silme</li>
+<li><strong>Delete:</strong> İmlecin sağındaki karakteri silme</li>
+<li><strong>Ctrl + Delete: </strong>İmlecin sağındaki kelimeyi silme</li>
+<li><strong>Ctrl + C: </strong>Seçili nesneleri panoya kopyalama</li>
+<li><strong>Ctrl + X: </strong>Seçili nesneleri panoya kopyalama ve silme</li>
+<li><strong>Ctrl + V: </strong>Panoya kopyalanan nesneleri yapıştırma</li>
+<li><strong>Ctrl + F3: </strong>Spike özelliğini açma</li>
+<li><strong>Ctrl + Tab + F3: </strong>Spike nesnelerini yapıştırma</li>
+<li><strong>Alt + Tab + R: </strong>Üstbilgiyi ya da altbilgiyi kopyalama</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-4-ZZemhhd2.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Metin düzenleme kısayolları arasında en dikkat çeken Spike özelliğini açan kısayollardır. Spike, Word tarafından kullanıcılara sunulan <strong>gelişmiş bir pano özelliğidir. </strong>Spike özelliğini açtıktan sonra metinde yaptığınız değişiklikler Spike’a kaydedilir, dilerseniz bu kayıtları yukarıdaki kısayolu kullanarak metne yapıştırabilirsiniz.</p>
+<p><strong>Karakter biçimlendirme kısayolları:</strong></p>
+<ul>
+<li><strong>Ctrl + B: </strong>Seçili karakterleri kalınlaştırma </li>
+<li><strong>Ctrl + I: </strong>Seçili karakterleri italikleştirme </li>
+<li><strong>Ctrl + U: </strong>Seçili karakterlerin altını çizme</li>
+<li><strong>Ctrl + Shift + W: </strong>Altı çizili cümlede boşluk oluşturma</li>
+<li><strong>Ctrl + Shift + D: </strong>Seçili karakterlerin altına çift çizgi çizme</li>
+<li><strong>Ctrl + D: </strong>Yazı Tipi seçim ekranını açma</li>
+<li><strong>Ctrl + Shift + < <em>veya </em>>: </strong>Yazı tipi boyutunu önceden ayarlanmış boyutta büyütme ya da küçültme </li>
+<li><strong>Ctrl + [ <em>veya </em>]: </strong>Yazı tipi boyutunu birer birer büyütme ya da küçültme</li>
+<li><strong>Ctrl + =: </strong>Alt simge biçimlendirmesi</li>
+<li><strong>Ctrl + Shift + Artı: </strong>Üst simge biçimlendirmesi </li>
+<li><strong>Shift + F3: </strong>Seçili karakterleri büyük ya da küçük harfe dönüştürme</li>
+<li><strong>Ctrl + Shift + A: </strong>Tüm seçili karakterleri büyük harfe dönüştürme</li>
+<li><strong>Ctrl + Shift + K: </strong>Tüm seçili karakterleri küçük harfe dönüştürme</li>
+<li><strong>Ctrl + Shift + C: </strong>Seçili karakterin biçimini kopyalama</li>
+<li><strong>Ctrl + Shift + V: </strong>Kopyalanan biçimlendirmeyi seçili karakterlere yapıştırma</li>
+<li><strong>Ctrl + Boşluk: </strong>Tüm biçimlendirmeleri kaldırma </li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-5-RTBgPCtr.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Karakter biçimlendirme kısayolları, zaten zor olan karakter biçimlendirme işlemleri sırasında işinizi son derece kolaylaştıracaktır. Tüm Microsoft Word sürümlerinde geçerli olan bu kısayollar, aynı zamanda <strong>Word Online ve Google Documents </strong>gibi farklı metin düzenleme uygulamalarında da kullanılabilir. </p>
+<p><strong>Paragraf biçimlendirme kısayolları:</strong></p>
+<ul>
+<li><strong>Ctrl + M: </strong>Paragraf girintisini artırma</li>
+<li><strong>Ctrl + Shift + M: </strong>Paragraf girintisini azaltma</li>
+<li><strong>Ctrl + T: </strong>Asılı girintiyi artırma</li>
+<li><strong>Ctrl + Shift + T: </strong>Asılı girintiyi azaltma</li>
+<li><strong>Ctrl + E: </strong>Paragrafı ortalama</li>
+<li><strong>Ctrl + L: </strong>Paragrafı sola hizalama</li>
+<li><strong>Ctrl + R: </strong>Paragrafı sağa hizalama</li>
+<li><strong>Ctrl + J: </strong>Paragrafı iki yana yaslama</li>
+<li><strong>Ctrl + 1: </strong>Satırlar arası tek aralık bırakma</li>
+<li><strong>Ctrl + 2: </strong>Satırlar arası çift aralık bırakma</li>
+<li><strong>Ctrl + 5: </strong>Satırlar arası 1,5 aralık bırakma</li>
+<li><strong>Ctrl + 0: </strong>Paragraftan önceki satır aralığını kaldırma</li>
+<li><strong>Ctrl + Shift + S: </strong>Stil ekranını açma</li>
+<li><strong>Ctrl + Shift + N: </strong>Standart paragraf stilini uygulama</li>
+<li><strong>Alt + Ctrl + 1: </strong>Başlık 1 stilini uygulama</li>
+<li><strong>Alt + Ctrl + 2: </strong>Başlık 2 stilini uygulama</li>
+<li><strong>Alt + Ctrl + 3: </strong>Başlık 3 stilini uygulama</li>
+<li><strong>Ctrl + Shift + L: </strong>Liste stilini uygulama</li>
+<li><strong>Ctrl + Q: </strong>Tüm paragraf biçimlendirmelerini kaldırma</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-6-RNFRKdUh.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Paragraf biçimlendirme kısayolları, oluşturduğunuz metnin <strong>düzenli bir biçimde görünmesi için </strong>mutlaka bilmeniz gereken kısayollardır. Düzenli paragraflar özellikle tez, özgeçmiş, yazılı sunum gibi metin üzerinden incelenen belgeler için son derece önemlidir.</p>
+<p><strong>Simge ekleme kısayolları:</strong></p>
+<ul>
+<li><strong>Shift + Enter: </strong>İmleci satır sonuna taşıma</li>
+<li><strong>Ctrl + Enter: </strong>İmleci yeni sayfa başına taşıma</li>
+<li><strong>Ctrl + Shift + Enter: </strong>İmleci sütun sonuna taşıma</li>
+<li><strong>Ctrl + kısa çizgi (-): </strong>İsteğe bağlı kısa çizgi ekleme</li>
+<li><strong>Alt + Ctrl + kısa çizgi (-): </strong>İsteğe bağlı uzun çizgi ekleme</li>
+<li><strong>Ctrl + Shift + kısa çizgi (-): </strong>Ayrılmaz kısa çizgi ekleme</li>
+<li><strong>Ctrl + Shift + Boşluk: </strong>Aralıksız boşluk ekleme</li>
+<li><strong>Alt + Ctrl + C: </strong>Telif hakkı simgesi ekleme</li>
+<li><strong>Alt + Ctrl + R: </strong>Kayıtlı ticari marka simgesi ekleme</li>
+<li><strong>Alt + Ctrl + T: </strong>Ticari marka simgesi ekleme</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-7-U2WbxtfF.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Simge ekleme kısayolları, özellikle resmi metinler için sıkça kullanılan simgelere kolayca ulaşmak ve <strong>zamandan tasarruf etmek için </strong>idealdir. Kısa çizgi kullanımlarının bazıları Türkçe için uygun olmayabilir ama özel metinler ya da yabancı dilde yazılan metinlerde son derece işe yarar kısayollardır. </p>
+<p><strong>Anahat düzenleme kısayolları:</strong></p>
+<ul>
+<li><strong>Alt + Shift + Sol / Sağ Ok: </strong>Paragraf biçim önizlemeleri</li>
+<li><strong>Ctrl + Shift + N: </strong>Anahattı standart biçime indirgeme</li>
+<li><strong>Alt + Shift + Yukarı / Aşağı Ok: </strong>Satır ekleme noktasını düzenleme</li>
+<li><strong>Alt + Shift + Artı ya da Eksi: </strong>Başlık altındaki metni genişletme ya da daraltma</li>
+<li><strong>Alt + Shift + A: </strong>Tüm metni ya da başlıkları genişletme ya da daraltma</li>
+<li><strong>Alt + Shift + L: </strong>İlk satırı gösterme</li>
+<li><strong>Alt + Shift + 1: </strong>Başlık 1 stili uygulanmış başlıkları bulma</li>
+<li><strong>Alt + Shift + herhangi bir sayı tuşu: </strong>Basılan tuşa göre değişen başlıkları bulma</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-8-tEyLwCaK.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Anahat düzenleme kısayolları ile oluşturduğunuz ya da elinize geçen bir metinde aradıklarınızı çok daha kolay bir şekilde bulabilir ve düzenleyebilirsiniz. Bir <strong>metin oluşturmak için </strong>yapılan tüm işlemlerden sonra son kez bir anahat kontrolü ve düzenlemesi yapmak, oluşturulan metnin başarısı için önemlidir. </p>
+<p><strong>Tablo kısayolları:</strong></p>
+<ul>
+<li><strong>Tab: </strong>Satırda sonraki hücreye geçme</li>
+<li><strong>Shift + Tab: </strong>Satırda önceki hücreye geçme</li>
+<li><strong>Alt + Home / End: </strong>Satırda ilk ya da son hücreye gitme</li>
+<li><strong>Alt + Page Up / Page Down: </strong>Sütunda ilk ya da son hücreye gitme</li>
+<li><strong>Yukarı / Aşağı Ok: </strong>Önceki ya da sonraki satıra gitme</li>
+<li><strong>Shift + Yukarı / Aşağı Ok: </strong>Hücre seçimi</li>
+<li><strong>Alt + 5: </strong>Tüm tabloyu seçme</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-9-fza3KxD6.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Tablo kısayolları, karmaşık tablolar arasında yolunuzu bulmanıza yardımcı olacaktır. Bu kısayolları kullanarak hazırlandığınız ya da elinize gelen hazır <strong>tablolar arasında </strong>kolayca aradıklarınızı bulabilir ve gerekli düzenlemeleri yapabilirsiniz.</p>
+<p>Sizin için Microsoft Word programını en verimli şekilde, bir uzman gibi kullanmanızı sağlayacak 112 farklı kısayolu listeledik. Kısayol tuşları klavyelere göre <strong>değişiklik gösterebilir </strong>ya da kullanım öncesi <em>Fn</em> tuşuna basmanız gerekebilir. Muadil tuşu bulmadan önce örnek bir metin üzerinde denemeler yapabilirsiniz. </p>11:[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L6",null,{"className":"journal-back","href":"/blog/","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"$undefined","size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Sizi Microsoft Word Uzmanı Yapacak 112 Klavye Kısayolu"}],["$","p",null,{"className":"journal-article-lead","children":"Microsoft Office programları arasında neredeyse tüm kullanıcılar tarafından sevilen ve en çok kullanılan programlardan biri olan Word, 1980’li…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L8",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-07-08","children":"8 Temmuz 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"className":"$undefined","size":14}],"7 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L8",null,{"src":"/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-IhODZDVl.jpg","alt":"Sizi Microsoft Word Uzmanı Yapacak 112 Klavye Kısayolu","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L6",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$19"}}],[],"$L1a","$L1b"]}]]}]]}],"$L1c","$L1d","$L1e"]
+1f:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1a:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L6",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}]
+1b:["$","$L6",null,{"href":"/blog/","className":"journal-back","children":[["$","$L7",null,{"ref":"$undefined","icon":"$11:0:props:children:0:props:children:0:props:children:0:props:icon","className":"$undefined","size":15}]," Tüm yazılara dön"]}]
+1c:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L6",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L6","intel-yeni-thunderbolt-4-protokolunu-duyurdu",{"className":"journal-related-card","href":"/blog/intel-yeni-thunderbolt-4-protokolunu-duyurdu/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/07/intel-yeni-thunderbolt-4-protokolunu-duyurdu-3bIxSBSb.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Intel Yeni Thunderbolt 4 Protokolünü Duyurdu"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}],["$","$L6","windows-11-neden-cikmayacak",{"className":"journal-related-card","href":"/blog/windows-11-neden-cikmayacak/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/07/windows-11-neden-cikmayacak-hUMQPO4N.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Windows 11 Neden Çıkmayacak?"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]]}]]}]
+1d:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L6",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+1e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Sizi Microsoft Word Uzmanı Yapacak 112 Klavye Kısayolu\",\"description\":\"Microsoft Office programları arasında neredeyse tüm kullanıcılar tarafından sevilen ve en çok kullanılan programlardan biri olan Word, 1980’li…\",\"datePublished\":\"2020-07-08\",\"dateModified\":\"2020-07-08\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-IhODZDVl.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]
+14:null
+18:[["$","title","0",{"children":"Sizi Microsoft Word Uzmanı Yapacak 112 Klavye Kısayolu | ZEYNART"}],["$","meta","1",{"name":"description","content":"Microsoft Office programları arasında neredeyse tüm kullanıcılar tarafından sevilen ve en çok kullanılan programlardan biri olan Word, 1980’li…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu/"}],["$","meta","4",{"property":"og:title","content":"Sizi Microsoft Word Uzmanı Yapacak 112 Klavye Kısayolu | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Microsoft Office programları arasında neredeyse tüm kullanıcılar tarafından sevilen ve en çok kullanılan programlardan biri olan Word, 1980’li…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-IhODZDVl.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-07-08"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Sizi Microsoft Word Uzmanı Yapacak 112 Klavye Kısayolu"}],["$","meta","16",{"name":"twitter:description","content":"Microsoft Office programları arasında neredeyse tüm kullanıcılar tarafından sevilen ve en çok kullanılan programlardan biri olan Word, 1980’li…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/07/sizi-microsoft-word-uzmani-yapacak-112-klavye-kisayolu-IhODZDVl.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1f","19",{}]]

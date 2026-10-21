@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+2:I[49786,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Header"]
+3:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+4:I[8821,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js","/_next/static/chunks/3v5ejxgbz9dem.js"],"default"]
+5:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:I[22016,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],""]
+7:I[5014,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default"]
+8:I[85437,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Image"]
+9:I[41819,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"Experience"]
+f:I[68027,["/_next/static/chunks/1s97aqogqyprp.js","/_next/static/chunks/1y5pkdejn3f6i.js"],"default",1]
+:HL["/_next/static/chunks/07i3877bvlh7y.css","style"]
+:HL["/_next/static/media/6ab0db14f70d8ed6-s.p.13hnt-xgp82zk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+0:{"P":null,"c":["","blog","bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1s97aqogqyprp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1y5pkdejn3f6i.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"manrope_2b1d6e-module__Er_Twq__variable","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"İçeriğe geç"}],["$","$L2",null,{}],["$","main",null,{"id":"main","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3v5ejxgbz9dem.js","async":true,"nonce":"$undefined"}]],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 — YENİ BİR YÖN"}],["$","h1",null,{"children":"Bu yol burada bitiyor."}],["$","p",null,{"children":["Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",["$","br",null,{}],"Güzel fikirler için ana sayfada buluşalım."]}],["$","$L6",null,{"href":"/","className":"button button-primary","data-magnetic":true,"children":["Ana sayfaya dön",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"$undefined","size":17}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"className":"footer-intro","children":[["$","$L6",null,{"href":"/","onClick":"$undefined","className":"brand","aria-label":"Zeynart Web Bilişim ana sayfa","children":["$","$L8",null,{"className":"zeynart-logo","src":"/images/zeynart-logo.avif","alt":"Zeynart Web Bilişim Hizmetleri","width":320,"height":133,"priority":true}]}],["$","p",null,{"children":["İyi fikirlerin geleceğini",["$","br",null,{}],"birlikte tasarlıyoruz."]}],["$","span",null,{"className":"availability","children":[["$","i",null,{}]," Yeni fikirlere açığız"]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Hizmetler"}],[["$","$L6","web-tasarim",{"href":"/hizmetler/web-tasarim","children":"Web Tasarım"}],["$","$L6","mobil-uygulama",{"href":"/hizmetler/mobil-uygulama","children":"Mobil Uygulama"}],["$","$L6","grafik-tasarim",{"href":"/hizmetler/grafik-tasarim","children":"Grafik Tasarım"}],["$","$L6","hosting",{"href":"/hizmetler/hosting","children":"Hosting & Sunucu"}]]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Keşfedin"}],["$","$L6",null,{"href":"/projeler","children":"Projeler"}],["$","$L6",null,{"href":"/hakkimizda","children":"Hakkımızda"}],["$","$L6",null,{"href":"/blog","children":"İçgörüler"}],["$","$L6",null,{"href":"/iletisim","children":"İletişim"}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Bir merhaba ile başlar."}],["$","$L6",null,{"className":"footer-contact","href":"/iletisim","children":["Fikrinizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"className":"$undefined","size":19}]]}],["$","a",null,{"href":"mailto:info@zeynart.com","children":"info@zeynart.com"}],["$","p",null,{"children":"Maltepe Mh. 21078 Sk. No:6/A"}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ZEYNART"]}],["$","div",null,{"children":[["$","$L6",null,{"href":"/gizlilik","children":"Gizlilik"}],["$","$L6",null,{"href":"/kvkk","children":"KVKK"}],["$","$L6",null,{"href":"/cerezler","children":"Çerezler"}],["$","span",null,{"children":"Özenle tasarlandı."}]]}]]}],["$","div",null,{"className":"footer-wordmark","aria-hidden":"true","children":"ZEYNART"}]]}],["$","$L9",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://zeynart.com/#organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"logo\":\"https://zeynart.com/images/zeynart-logo.avif\"},{\"@type\":\"WebSite\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\",\"inLanguage\":\"tr-TR\",\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"}}]}"}}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$La","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$d"]},null,false,"$d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wXh_UvXRlyat4GYttAIJS"}
+12:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+a:["$","$L5",null,{}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07i3877bvlh7y.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:C
+19:T36cc,<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-0-HYPggfIt.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Yoğun bir mesainin ilk saatine başlamak ya da sevdiğiniz bir oyuna kaldığınız yerden devam etmek için bilgisayarınızın güç düğmesine bastınız, beklediniz ama <em>bilgisayar açılmıyor. </em><strong>Bilgisayar açılmıyor, </strong>mavi ekran verdi, siyah ekran çıktı gibi sorunlara neden olacak pek çok farklı problem meydana gelmiş olabilir.</p>
+<p><strong>Bilgisayar açılmıyor sorunu nasıl çözülür? </strong>Bu konuda masaüstü ve dizüstü bilgisayarlarda uygulayabileceğiniz pek çok farklı yöntem var. İlk olarak sorunu tespit etmeli, ardından çözüm için birkaç kontrol yapmalısınız. <em>Bilgisayar açılmıyor </em>sorunu yaşayan kullanıcıların uygulayabilecekleri farklı çözüm yöntemlerini anlattık ve izlemeniz gereken yolları adım adım anlattık.</p>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-1-Ux7Iet7b.jpg" alt="" loading="lazy" decoding="async"></p>
+<p><strong>Bilgisayar açılmıyor sorununa ne sebep olabilir?</strong></p>
+<p>Maalesef, bu sorunun tek bir yanıtı yok. Bilgisayarlar oldukça karmaşık sistemlere sahip cihazlar. <strong>Pek çok farklı donanımın aynı anda, </strong>birbiriyle ve Windows 10 gibi işletim sistemleriyle uyumlu çalışması sonucu kullanabildiğimiz bir sistem. Bilgisayar açılmıyor sorununun pek çok farklı nedeni olabilir.</p>
+<p>Bu nedenlerden biri basit bir güç sorunu olabilir ya da harici bağlantı kablolarında yaşanan bir temassızlık. <strong>Sürücülerden biri güncel olmayabilir </strong>ya da iç donanımlardan biri artık işlevini yerine getirmiyordur. BIOS’ta yaşanan problemler de bilgisayar açılmıyor sorununa neden olabilir. Bu konuda bazı çözüm önerileri var.</p>
+<p><strong>Bilgisayar açılmıyorsa uygulayabileceğiniz çözüm önerileri: </strong></p>
+<ul>
+<li><strong>Yöntem #1: </strong>Güç bağlantılarını kontrol edin</li>
+<li><strong>Yöntem #2: </strong>Monitörünüzü kontrol edin</li>
+<li><strong>Yöntem #3: </strong>Bilgisayarınızı dinleyin</li>
+<li><strong>Yöntem #4: </strong>Donanımınızı kontrol edin</li>
+<li><strong>Yöntem #5: </strong>BIOS’unuza girin</li>
+<li><strong>Yöntem #6: </strong>Harici bir aygıt ile virüs taraması yapın</li>
+<li><strong>Yöntem #7: </strong>Bilgisayarı güvenli modda başlatın</li>
+<li><strong>Yöntem #8: </strong>Sabit sürücünüzü kontrol edin</li>
+<li><strong>Yöntem #9: </strong>Sabit sürücüyü başka bir bilgisayarda deneyin</li>
+</ul>
+<p><strong>Yöntem #1: Güç bağlantılarını kontrol edin:</strong></p>
+<p><strong>Masaüstü bilgisayar kullanıyorsanız;</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Bilgisayarı farklı bir prize bağlayın.</li>
+<li><strong>Adım #2: </strong>Prize elektrik geldiğinden emin olun.</li>
+<li><strong>Adım #3: </strong>Bilgisayarı farklı bir kablo ile prize bağlayın.</li>
+<li><strong>Adım #4: </strong>Güç anahtarının açık olduğundan emin olun.</li>
+<li><strong>Adım #5: </strong>Bölgede elektrik bağlantısı olduğundan emin olun.</li>
+</ul>
+<p><strong>Dizüstü bilgisayar kullanıyorsanız;</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Bataryada cihazı açacak kadar enerji olduğundan emin olun.</li>
+<li><strong>Adım #2: </strong>Bataryanın doğru bir şekilde takılı olduğundan emin olun.</li>
+<li><strong>Adım #3: </strong>Şarj aleti yardımıyla cihazı elektriğe bağlayın.</li>
+<li><strong>Adım #4: </strong>Şarj aletinin çalışır durumda olduğundan emin olun.</li>
+<li><strong>Adım #5: </strong>Farklı bir şarj aleti kullanarak bataryayı şarj etmeyi deneyin.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-2-FvMYEjFC.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bilgisayar açılmıyor sorununun nedeni bazen basit bir güç problemi olabiliyor. Bu nedenle bilgisayarın elektrik bağlantısını kontrol etmenizde yarar var. Tüm bunlara rağmen cihaz çalışmıyorsa <strong>yeni bir güç kaynağı </strong>ya da güç bağlantı kablosu edinebilirsiniz. </p>
+<p><strong>Yöntem #2: Monitörünüzü kontrol edin:</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Monitörün prize takılı olduğundan emin olun.</li>
+<li><strong>Adım #2: </strong>Eğer bir uzatma kablosuna bağlı ise duvar prizine bağlayın.</li>
+<li><strong>Adım #3: </strong>Bağlantı kablolarının doğru girişlerde olduğunu kontrol edin.</li>
+<li><strong>Adım #4: </strong>Bağlantı kablosunda herhangi bir gevşeme olup olmadığını kontrol edin.</li>
+<li><strong>Adım #5: </strong>Bilgisayarı farklı bir monitöre bağlamayı deneyin.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-3-i6dLLIvE.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Masaüstü bilgisayar kullanıcılarının yaşadığı bilgisayar açılmıyor sorununa monitörler neden olabiliyor. Bilgisayar açık, ışıkları görüyor, fan sesini duyuyorsanız <strong>ama monitörde görüntü yoksa </strong>bilgisayar önyükleme yapıyor ancak monitör bunu göstermiyor demektir. Yukarıdaki kontrol adımlarını izleyerek sorunu bulabilirsiniz.</p>
+<p><strong>Yöntem #3: Bilgisayarınızı dinleyin:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-4-dTaqyE1O.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Masaüstü bilgisayarlar çalışmaya yani önyükleme yapmaya başladıkları sırada kısa bir ses çıkarırlar. Eğer yalnızca <strong>tek bir ses duyuyorsanız, </strong>her şey yolunda demektir. Fakat çıkan sesler birden fazlaysa ya da mors alfabesine benzer şekilde sesler çıkıyorsa bir sorun var demektir.</p>
+<p>Bilgisayardan çıkan bu farklı seslerin ne anlama geldiğini öğrenmek için bilgisayarınızın ya da anakartınızın <strong>kullanma kılavuzunu </strong>inceleyebilirsiniz. Burada seslerin ne anlama geldiği açıklanıyor. Eğer kullanma kılavuzunuz yoksa üreticinin internet sitesinden edinebilirsiniz. </p>
+<p><strong>Yöntem #4: Donanımınızı kontrol edin:</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Bilgisayarın yan panelini açın.
+<ul>
+<li>Dizüstü ise bilgisayarın altındaki vidaları çıkararak kapağı açın.</li>
+</ul>
+</li>
+<li><strong>Adım #2: </strong>Donanımlarda hasar olup olmadığına bakın.</li>
+<li><strong>Adım #3: </strong>Donanım bağlantılarında bir sorun olup olmadığına bakın.</li>
+<li><strong>Adım #4: </strong>Toz birikmesi gibi harici etkiler olup olmadığına bakın.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-5-XOlIbJ8w.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bilgisayarların içinde aynı anda, düzenli olarak çalışması gereken pek çok donanım bulunur ve bu <strong>donanımlardan bir tanesi düzgün çalışmazsa </strong>bilgisayar açılmıyor sorunu ortaya çıkabilir. Özellikle sık sık taşınan bilgisayarların iç donanımlarında sorun meydana gelme olasılığı yüksektir.</p>
+<p>Bu noktada bir uyarı gerekiyor. Eğer bilgisayarların iç donanımları konusunda tecrübeniz yoksa panel açmak, kapak açmak, donanım söküp takmak gibi konularda <strong>dikkatli olmanızda yarar var. </strong>Özellikle dizüstü bilgisayarların kapağı açıldığı, donanımları ile oynandığı zaman garanti kapsamından çıktığını unutmayın. </p>
+<p><strong>Yöntem #5: BIOS’unuza girin</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Siyah ekran açıkken F2 tuşuna basarak BIOS’a girin.</li>
+<li><strong>Adım #2: </strong>Bilgisayarda önyüklenebilir bir işletim sistemi olduğundan emin olun.</li>
+<li><strong>Adım #3: </strong>BIOS’un doğru sürücü ile başladığından emin olun.</li>
+<li><strong>Adım #4: </strong>RAM’in tanındığından emin olun.</li>
+<li><strong>Adım #5: </strong>CPU’nun fazla ısınmadığından emin olun.</li>
+<li><strong>Adım #6: </strong>Herhangi bir sorun görmüyorsanız varsayılan ayarları geri yükleyin.</li>
+<li><strong>Adım #7: </strong>Bilgisayarı yeniden başlatın.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-6-Lak6Vhm1.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>BIOS üzerinden işlem yapmanız için bilgisayarınızın açılıyor ama <strong>POST ekranında yani siyah ekranda </strong>kalıyor olması gerekiyor. Bunun nedeni yukarıdaki adımlarda bahsettiğimiz nedenlerden biri olabilir. Böyle durumlara karşı, hazır bilgisayarınız açılıyorken, BIOS ayarlarınızın birkaç fotoğrafını çekin. Böylece bir sorun olup olmadığını daha kolay kontrol edebilirsiniz.</p>
+<p><strong>Yöntem #6: Harici bir aygıt ile virüs taraması yapın:</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Buradan Hiren&#39;s Boot CD ISO dosyasını indirin ve bir USB aygıta ya da CD’ye aktarın.</li>
+<li><strong>Adım #2: </strong>Bilgisayarı yeniden başlatın.</li>
+<li><strong>Adım #3: </strong>Başlangıç ekranında F12 tuşuna basarak Boot ekranını açın.</li>
+<li><strong>Adım #4: </strong>Bilgisayarınıza bağlı USB aygıtı ya da CD’yi seçin.</li>
+<li><strong>Adım #5: </strong>Hiren&#39;s Boot üzerinden önyükleme yapılacak.</li>
+<li><strong>Adım #6: </strong>Security klasörü üzerinden bilgisayarınızı tarayın.</li>
+<li><strong>Adım #7: </strong>Varsa kötü amaçlı yazılımları kaldırın.</li>
+<li><strong>Adım #8: </strong>Bilgisayarı yeniden başlatın.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-7-sseQTKfG.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bilgisayar açılmıyor sorununa neden olabilecek pek çok farklı kötü amaçlı yazılımdan birine maruz kalmış olabilirsiniz. Harici bir aygıt ile virüs taraması yaparak ya da <strong>bilgisayarı önyükleme olmadan çalıştırarak </strong>bu yazılımları tespit edebilir ve ortadan kaldırabilirsiniz. Böyle bir durumun önüne geçmek için, hazır bilgisayarınız açılıyorken, güvenilir bir antivirüs yazılımı kullanmanızda yarar var. </p>
+<p><strong>Yöntem #7: Bilgisayarı güvenli modda başlatın:</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Bilgisayarı güvenli modda başlatın.</li>
+<li><strong>Adım #2: </strong>Sorun giderme ekranını açın.</li>
+<li><strong>Adım #3: </strong>Gelişmiş Seçenekleri açın.</li>
+<li><strong>Adım #4: </strong>Başlangıç Ayarları’nı açın.</li>
+<li><strong>Adım #5: </strong>Buradan yeni eklenen sürücüleri kaldırın.</li>
+<li><strong>Adım #6: </strong>Sorun çözülmüyorsa Sistem Geri Yükleme hizmetini kullanın.</li>
+<li><strong>Adım #7: </strong>Bilgisayarı yeniden başlatın.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-8-3m4va6Hv.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bilgisayarı güvenli modda başlatma yöntemini mavi ekran sorunu ile karşı karşıya kaldığınız zaman kullanabilirsiniz. <strong>Mavi ekran nedeniyle bilgisayar açılmıyor </strong>sorununun nedeni yeni yüklenmiş bir yazılım, doğru çalışmayan bir güncelleme ya da farklı bir donanım sorunu olabilir. Güvenli modda başlattığınız zaman yukarıdaki adımları izleyerek mavi ekran sorununu çözebilirsiniz. </p>
+<p><strong>Yöntem #8: Sabit sürücünüzü kontrol edin:</strong></p>
+<ul>
+<li><strong>Adım #1: </strong>Bilgisayarı güvenli modda başlatın ve Sorun Giderme ekranını açın.</li>
+<li><strong>Adım #2: </strong>Gelişmiş Seçenekler menüsünü açın.</li>
+<li><strong>Adım #3: </strong>Başlangıç Onarma ekranını açın ve bilgisayarınızın taranmasını bekleyin.
+<ul>
+<li>Sorun çözülmüyorsa bir sonraki adım ile devam edin.</li>
+</ul>
+</li>
+<li><strong>Adım #4: </strong>Komut İstemi sayfasını açın.</li>
+<li><strong>Adım #5: </strong><em>sfc /scannow </em>yazın ve Enter’a basın.</li>
+<li><strong>Adım #6: </strong>Sürücü sorunlarının kontrol edilmesini bekleyin.
+<ul>
+<li>Daha geniş bir tarama yapmak için bir sonraki adım ile devam edin.</li>
+</ul>
+</li>
+<li><strong>Adım #7: </strong>Komut İstemi ekranına <em>chkdsk C: /r </em>yazın ve Enter’a basın.</li>
+<li><strong>Adım #8: </strong>Sorunlar tespit edildiği ve onarıldığı zaman bilgisayarı yeniden başlatın.</li>
+</ul>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-9-zb49pfAt.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Sabit sürücüler hassas donanımlardır ve <strong>doğru güncellenmemiş bir sürücü </strong>nedeniyle bile bilgisayar açılmıyor sorununa neden olabilirler. Böyle bir durumda karşınıza mavi ekran çıkacaktır. Önceki yöntem ile bu yöntemin farkı, sorunu sabit sürücüde arıyor olmanız. </p>
+<p><strong>Yöntem #9: Sabit sürücüyü başka bir bilgisayarda deneyin:</strong></p>
+<p><img src="/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-10-tGi1vX1p.jpg" alt="" loading="lazy" decoding="async"></p>
+<p>Bu yöntemi yalnızca sabit sürücü ile değil, diğer donanımlarla da deneyebilirsiniz. Fakat sabit sürücü ile denerseniz en azından bilgisayarınızı teknik servise göndermeden önce <strong>var olan verilerinizi kurtarabilirsiniz. </strong>Evet, tüm yöntemleri denediyseniz fakat yine de bilgisayar açılmıyor sorunu ile karşı karşıyaysanız teknik servise başvurmalısınız. </p>
+<p>Sizin için bilgisayar açılmıyor sorunu ile, mavi ekran ya da siyah ekran ile karşı karşıya kaldığınız zaman uygulayabileceğiniz çözüm önerilerini anlattık. Eğer yukarıdaki yöntemler konusunda tecrübeniz yoksa <strong>bilgisayarınızı riske atmayın </strong>ve en yakın yetkili servise başvurun. </p>11:[["$","article",null,{"className":"journal-article","children":[["$","header",null,{"className":"container journal-article-header","children":[["$","$L6",null,{"className":"journal-back","href":"/blog/","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"$undefined","size":15}]," ZEYNART JOURNAL’A DÖN"]}],["$","p",null,{"className":"eyebrow","children":"GENEL"}],["$","h1",null,{"children":"Bilgisayar Açılmıyorsa Ne Yapmanız Gerekir?"}],["$","p",null,{"className":"journal-article-lead","children":"Yoğun bir mesainin ilk saatine başlamak ya da sevdiğiniz bir oyuna kaldığınız yerden devam etmek için bilgisayarınızın güç düğmesine bastınız…"}],["$","div",null,{"className":"journal-author","children":[["$","div",null,{"className":"journal-author-mark","children":["$","$L8",null,{"src":"/images/zeynart-logo.avif","alt":"","width":100,"height":42}]}],["$","div",null,{"children":[["$","strong",null,{"children":"Zeynart Web Bilişim"}],["$","span",null,{"children":"Tasarım & teknoloji notları"}]]}],["$","time",null,{"dateTime":"2020-08-09","children":"9 Ağustos 2020"}],["$","span",null,{"className":"journal-reading-time","children":[["$","$L7",null,{"ref":"$undefined","icon":{"name":"clock-3","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 6v6h4","key":"135r8i"}]]},"className":"$undefined","size":14}],"6 dk"," okuma"]}]]}]]}],["$","figure",null,{"className":"container journal-article-cover","children":[["$","$L8",null,{"src":"/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-4szfX1Mu.jpg","alt":"Bilgisayar Açılmıyorsa Ne Yapmanız Gerekir?","width":1672,"height":941,"sizes":"(max-width: 760px) 100vw, 90vw"}],["$","figcaption",null,{"children":["ZEYNART JOURNAL ",["$","span",null,{"children":"GENEL"}]]}]]}],["$","div",null,{"className":"container journal-reading-layout","children":[["$","aside",null,{"className":"journal-toc","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","$L6",null,{"href":"/hizmetler/","className":"journal-service-link","children":["Hizmetlerimiz ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]}],["$","div",null,{"className":"journal-prose","children":[["$","div",null,{"className":"journal-prose-html","dangerouslySetInnerHTML":{"__html":"$19"}}],[],"$L1a","$L1b"]}]]}]]}],"$L1c","$L1d","$L1e"]
+1f:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1a:["$","div",null,{"className":"journal-article-end","children":[["$","span",null,{"children":"ZEYNART’TAN BİR NOT"}],["$","p",null,{"children":"Her işletmenin ihtiyacı farklı. Bu fikirleri kendi projenize nasıl uyarlayabileceğinizi birlikte değerlendirelim."}],["$","$L6",null,{"href":"/iletisim/","children":["Projenizi konuşalım ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}]
+1b:["$","$L6",null,{"href":"/blog/","className":"journal-back","children":[["$","$L7",null,{"ref":"$undefined","icon":"$11:0:props:children:0:props:children:0:props:children:0:props:icon","className":"$undefined","size":15}]," Tüm yazılara dön"]}]
+1c:["$","section",null,{"className":"container journal-related","children":[["$","div",null,{"className":"studio-section-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BİR SONRAKİ FİKİR"}],["$","h2",null,{"children":"Bunlar da ilginizi çekebilir."}]]}],["$","$L6",null,{"href":"/blog/","className":"text-link","children":["Tüm yazılar ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}]]}],["$","div",null,{"className":"journal-related-grid","children":[["$","$L6","turkiye-yuzde-100-yerli-ve-milli-teknolojiye-ulasacak",{"className":"journal-related-card","href":"/blog/turkiye-yuzde-100-yerli-ve-milli-teknolojiye-ulasacak/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/08/turkiye-yuzde-100-yerli-ve-milli-teknolojiye-ulasacak-kIl5lwFi.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"Türkiye Yüzde 100 Yerli ve Milli Teknolojiye Ulaşacak"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}],["$","$L6","amd-virtual-super-resolution-nedir-ne-ise-yarar",{"className":"journal-related-card","href":"/blog/amd-virtual-super-resolution-nedir-ne-ise-yarar/","children":[["$","div",null,{"children":["$","$L8",null,{"src":"/wp-content/uploads/2020/08/amd-virtual-super-resolution-nedir-ne-ise-yarar-Gkc8s5Rr.jpg","alt":"","fill":true,"sizes":"(max-width: 760px) 100vw, 45vw"}]}],["$","span",null,{"className":"eyebrow","children":"GENEL"}],["$","h3",null,{"children":"AMD Virtual Super Resolution Nedir, Ne İşe Yarar?"}],["$","span",null,{"className":"journal-read","children":["Okumaya devam et ",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":16}]]}]]}]]}]]}]
+1d:["$","section",null,{"className":"cta-section","children":[["$","div",null,{"className":"cta-glow","aria-hidden":"true"}],["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow","children":"BİR FİKRİNİZ Mİ VAR?"}],["$","h2",null,{"children":["Birlikte",["$","br",null,{}],"hayata ",["$","span",null,{"children":"geçirelim."}]]}],["$","$L6",null,{"href":"/iletisim","className":"button button-primary","data-magnetic":true,"children":["Projenizi anlatın",["$","$L7",null,{"ref":"$undefined","icon":"$0:f:0:1:0:props:children:1:props:children:props:children:3:props:children:0:props:children:3:props:children:1:props:children:1:props:icon","className":"$undefined","size":17}]]}],["$","span",null,{"className":"cta-side","children":"BİR MERHABA, YENİ BİR BAŞLANGIÇ."}]]}]]}]
+1e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Bilgisayar Açılmıyorsa Ne Yapmanız Gerekir?\",\"description\":\"Yoğun bir mesainin ilk saatine başlamak ya da sevdiğiniz bir oyuna kaldığınız yerden devam etmek için bilgisayarınızın güç düğmesine bastınız…\",\"datePublished\":\"2020-08-09\",\"dateModified\":\"2020-08-09\",\"author\":{\"@type\":\"Organization\",\"name\":\"ZEYNART\",\"url\":\"https://zeynart.com\"},\"publisher\":{\"@id\":\"https://zeynart.com/#organization\"},\"mainEntityOfPage\":\"https://zeynart.com/blog/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir/\",\"image\":\"https://zeynart.com/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-4szfX1Mu.jpg\",\"inLanguage\":\"tr-TR\"}"}}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070f12"}]]
+14:null
+18:[["$","title","0",{"children":"Bilgisayar Açılmıyorsa Ne Yapmanız Gerekir? | ZEYNART"}],["$","meta","1",{"name":"description","content":"Yoğun bir mesainin ilk saatine başlamak ya da sevdiğiniz bir oyuna kaldığınız yerden devam etmek için bilgisayarınızın güç düğmesine bastınız…"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zeynart.com/blog/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir/"}],["$","meta","4",{"property":"og:title","content":"Bilgisayar Açılmıyorsa Ne Yapmanız Gerekir? | ZEYNART"}],["$","meta","5",{"property":"og:description","content":"Yoğun bir mesainin ilk saatine başlamak ya da sevdiğiniz bir oyuna kaldığınız yerden devam etmek için bilgisayarınızın güç düğmesine bastınız…"}],["$","meta","6",{"property":"og:url","content":"https://zeynart.com/blog/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir/"}],["$","meta","7",{"property":"og:locale","content":"tr_TR"}],["$","meta","8",{"property":"og:image","content":"https://zeynart.com/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-4szfX1Mu.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1672"}],["$","meta","10",{"property":"og:image:height","content":"941"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2020-08-09"}],["$","meta","13",{"property":"article:author","content":"ZEYNART"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Bilgisayar Açılmıyorsa Ne Yapmanız Gerekir?"}],["$","meta","16",{"name":"twitter:description","content":"Yoğun bir mesainin ilk saatine başlamak ya da sevdiğiniz bir oyuna kaldığınız yerden devam etmek için bilgisayarınızın güç düğmesine bastınız…"}],["$","meta","17",{"name":"twitter:image","content":"https://zeynart.com/wp-content/uploads/2020/08/bilgisayar-acilmiyorsa-ne-yapmaniz-gerekir-4szfX1Mu.jpg"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.0is1c-_cwf4_5.png","sizes":"128x128","type":"image/png"}],["$","$L1f","19",{}]]
